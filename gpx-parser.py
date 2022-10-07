@@ -7,15 +7,21 @@ import gpxpy.gpx
 def write_header(f):
     f.write("""
 
-function onTrackClick(e) {
-    if(e.target.options.opacity > 0.5)
-        e.target.setStyle({opacity: "0.3"});
+function onZoomEnd(e) {
+    level = e.target.getZoom();
+    var opacity;
+    if(level > 11)
+        opacity = 1.0;
     else
-        e.target.setStyle({opacity: "1.0"});
-    e.target.redraw();
+        opacity = 0.0;
+    for (let i = 0; i < markers.length; i++) {
+        markers[i].setOpacity(opacity);
+    }
 }
 
 var map = L.map('map').setView([48.636993, 9.008789], 13);
+
+map.on('zoomend', onZoomEnd);
     
 map = map.locate({setView: true, maxZoom: 13});
 
@@ -25,16 +31,25 @@ var tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 }).addTo(map);
 
 var latlngs;
+var marker;
+var markers = [];
+var track;
+var tracks = [];
 """)
 
-def write_track(fh, track, color, filename):
+def write_track(fh, track, color, filename, fullname):
     fh.write("latlngs = [\n")
     for point in track:
-        fh.write("[{},{}],".format(point[0], point[1]))
+        fh.write(F"[{point[0]},{point[1]}],")
     fh.write("];\n")
-    fh.write("var polyline = L.polyline(latlngs, {color: '" + color + "', interactive: 'true'}).addTo(map);\n")
-    fh.write("polyline.on('click', onTrackClick);")
-    fh.write("polyline.bindTooltip(\"{}\");".format(filename))
+    popup = F"<a href=\\\"{fullname}\\\" type=\\\"application/gpx+xm\\\" download>{filename[:-4]}</a>"
+    fh.write(F"""
+track = L.polyline(latlngs, {{color: '{color}', interactive: 'true'}}).addTo(map);
+tracks.push(track);
+marker = L.marker([{track[0][0]}, {track[0][1]}]).addTo(map);
+marker.bindPopup(\"{popup}\");
+markers.push(marker);
+""")
 
 
 
@@ -70,7 +85,7 @@ for dirname in os.listdir("tracks"):
         for filename in os.listdir(full_dirname):
             f = os.path.join(full_dirname, filename)
             track = get_track(f)
-            write_track(fh, track, color, filename)
+            write_track(fh, track, color, filename, f)
 
 fh.close()
 
