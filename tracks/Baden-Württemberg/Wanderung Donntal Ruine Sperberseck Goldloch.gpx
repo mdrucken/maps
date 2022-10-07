@@ -1,17 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1" version="1.1" creator="outdooractive - http://www.outdooractive.com">
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
   <metadata>
     <name>Wanderung Donntal Ruine Sperberseck Goldloch</name>
-    <author>
-      <name>Achim  Herzog - Community</name>
-    </author>
-    <link href="https://www.outdooractive.com/r/106714798"/>
-    <time>2019-08-20T13:29:59.636</time>
   </metadata>
   <trk>
-    <name>Wanderung Donntal Ruine Sperberseck Goldloch</name>
-    <desc>Schlattstall - Donntal - Sinterterrasssen - Ruine Sperberseck - Bannwald - Strohweiler Steige - Schwarze Lauter - Goldloch - Schlatttstall</desc>
-    <type>hikingTourTrail</type>
     <trkseg>
       <trkpt lat="48.524999" lon="9.49907">
         <ele>516.9</ele>

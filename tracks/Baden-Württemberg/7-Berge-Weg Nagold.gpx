@@ -1,20 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gpx version="1.1" creator="outdooractive - http://www.outdooractive.com" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1">
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
   <metadata>
-    <name>Qualitätsweg 7-Berge-Weg rund um Nagold</name>
-    <author>
-      <name>Sarah Leutner - Tourismus GmbH Nördlicher Schwarzwald</name>
-    </author>
-    <link href="https://www.outdooractive.com/r/5661832"/>
-    <time>2021-01-11T08:14:27.622</time>
-    <extensions>
-      <oa:oaCategory>hikingTourTrail</oa:oaCategory>
-    </extensions>
+    <name>7-Berge-Weg Nagold</name>
   </metadata>
   <trk>
-    <name>Qualitätsweg 7-Berge-Weg rund um Nagold</name>
-    <desc>Diese Tour hält, was sie verspricht: Genau 7 Berge wollen &quot;erwandert&quot; werden und so bieten sich auf der Tour immer wieder tolle Aussichtspunkte auf die Stadt und in die Ferne.</desc>
-    <type>hikingTourTrail</type>
     <trkseg>
       <trkpt lat="48.55092" lon="8.721357">
         <ele>394.4</ele>

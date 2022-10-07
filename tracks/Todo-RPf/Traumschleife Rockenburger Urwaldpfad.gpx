@@ -1,20 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gpx version="1.1" creator="outdooractive - http://www.outdooractive.com" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1">
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
   <metadata>
-    <name>Traumschleife Rockenburger Urwaldpfad (Dream loop Rockenburg Primeval Forest Path)</name>
-    <author>
-      <name>Iris Müller - Hunsrück-Touristik GmbH</name>
-    </author>
-    <link href="https://www.outdooractive.com/r/1519198"/>
-    <time>2022-05-15T08:35:52.654</time>
-    <extensions>
-      <oa:oaCategory>hikingTourTrail</oa:oaCategory>
-    </extensions>
+    <name>Traumschleife Rockenburger Urwaldpfad</name>
   </metadata>
   <trk>
-    <name>Traumschleife Rockenburger Urwaldpfad (Dream loop Rockenburg Primeval Forest Path)</name>
-    <desc><![CDATA[Highlights of the hike are the steep descent into the Dhron Valley via a huge wooden ladder and the mighty quartzite rocks. In between, romantic passages await you along smaller forest streams and the Kleine Dhron as well as the high plateau between Beuren and Prosterath. A meadow path leads to the “Prosterather Wacken”, the foothills of which extend into the village.]]></desc>
-    <type>hikingTourTrail</type>
     <trkseg>
       <trkpt lat="49.726201" lon="6.899889">
         <ele>443.9</ele>

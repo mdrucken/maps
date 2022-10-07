@@ -1,20 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gpx version="1.1" creator="outdooractive - http://www.outdooractive.com" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1">
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
   <metadata>
     <name>Breitenstein, Hahnenkamm, Rauber, Diepoldsburg</name>
-    <author>
-      <name>Michael Müller - Community</name>
-    </author>
-    <link href="https://www.outdooractive.com/r/114910153"/>
-    <time>2021-05-26T09:25:14.116</time>
-    <extensions>
-      <oa:oaCategory>hikingTourTrail</oa:oaCategory>
-    </extensions>
   </metadata>
   <trk>
-    <name>Breitenstein, Hahnenkamm, Rauber, Diepoldsburg</name>
-    <desc><![CDATA[Die Tour geht erst mal auf den Aussichtsfelsen Breitenstein, von dem aus man bei klarer Sicht halb Baden-Württemberg überblicken kann (ich hab von dort aus schon bis Mannheim und in den Odenwald gesehen). Dann geht es einen steilen, schmalen, steinigen und für Kinderwägen absolut ungeeigneten Weg am Breitenstein vorbei den Hang hinab (hab den Weg gestern getestet) und auf halber Höhe am Hang auf die Ruine Hahnenkamm. Dann geht es am Rande des Naturschutzgebietes Eichhalde weiter hinuter bis ins Tal bei Bissingen, dann einmal der Länge nach durch die Eichhalde das Tal hinauf, dann am Waldrand entlang bis zum Sattelbogen, einem Pass der den Teckberg von der Alb trennt. Hier geht es dann wieder einen steilen und schmalen (aber für Alb-Verhältnisse recht gemäßigten) Weg hinauf zur Ruine Rauber. Von dort aus auf dem Kamm entlang zur Ruine Diepoldsburg. Dann einen Weg am Hang entlang zu einigen Felsen und Höhlen und wieder zurück, dann hinter dem Brucker Hölzle Richtung Randecker Maar. Dieses ein Stück entlang und quer durch Ochsenwang (mit Möglichkeit der Einkehr) und zurück zum Parkplatz.]]></desc>
-    <type>hikingTourTrail</type>
     <trkseg>
       <trkpt lat="48.580939" lon="9.501509">
         <ele>789.68103</ele>

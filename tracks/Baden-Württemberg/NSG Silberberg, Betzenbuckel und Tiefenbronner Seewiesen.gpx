@@ -1,20 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gpx version="1.1" creator="outdooractive - http://www.outdooractive.com" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1">
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
   <metadata>
     <name>NSG Silberberg, Betzenbuckel und Tiefenbronner Seewiesen</name>
-    <author>
-      <name>Eberhard Kiefer - Community</name>
-    </author>
-    <link href="https://www.outdooractive.com/r/109145491"/>
-    <time>2020-08-25T13:28:41.895</time>
-    <extensions>
-      <oa:oaCategory>hikingTourTrail</oa:oaCategory>
-    </extensions>
   </metadata>
   <trk>
-    <name>NSG Silberberg, Betzenbuckel und Tiefenbronner Seewiesen</name>
-    <desc>Rundwanderung von der Würm bei Mühlhausen über Höhenstufen bis zur aussichtsreichen Kuppe des NSG Betzenbuckel</desc>
-    <type>hikingTourTrail</type>
     <trkseg>
       <trkpt lat="48.80629" lon="8.821798">
         <ele>362.96818</ele>

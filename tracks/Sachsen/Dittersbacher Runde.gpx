@@ -1,17 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1" version="1.1" creator="outdooractive - http://www.outdooractive.com">
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
   <metadata>
     <name>Dittersbacher Runde</name>
-    <author>
-      <name>Ottmar Vetter - Elbsandsteingebirge</name>
-    </author>
-    <link href="https://www.outdooractive.com/r/19705367"/>
-    <time>2019-11-02T18:26:32.631</time>
   </metadata>
   <trk>
-    <name>Dittersbacher Runde</name>
-    <desc>Diese sehr aussichtsreiche Tour führt auf einem Rundweg von Dittersbach (Jetrichovice) ausgehend über einige malerische Sandsteintürme (Marienfels, Rudolfstein, einige auch mit Hütte).</desc>
-    <type>hikingTourTrail</type>
     <trkseg>
       <trkpt lat="50.852649" lon="14.39231">
         <ele>226.1</ele>

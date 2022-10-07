@@ -1,17 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1" version="1.1" creator="outdooractive - http://www.outdooractive.com">
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
   <metadata>
     <name>Klettersteig Geierwand bei Haiming</name>
-    <author>
-      <name>Elisabeth Reder - alpenvereinaktiv.com</name>
-    </author>
-    <link href="https://www.outdooractive.com/r/16010604"/>
-    <time>2020-05-08T20:14:42.35</time>
   </metadata>
   <trk>
-    <name>Klettersteig Geierwand bei Haiming</name>
-    <desc>Talnaher, mittelschwerer Klettersteig am Südhang von Simmering und Tschirgant mit toller Aussicht über das Inntal.</desc>
-    <type>viaferrata</type>
     <trkseg>
       <trkpt lat="47.260194" lon="10.87801">
         <ele>559.62</ele>

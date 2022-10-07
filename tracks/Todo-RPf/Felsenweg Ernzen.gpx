@@ -1,20 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gpx version="1.1" creator="outdooractive - http://www.outdooractive.com" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1">
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
   <metadata>
-    <name>Circular walk NaturWanderPark delux: Felsenweg 6 (Ernzen/Teufelsschlucht)</name>
-    <author>
-      <name>Elke Wagner / Felsenland Südeifel GmbH - Eifel Tourismus GmbH</name>
-    </author>
-    <link href="https://www.outdooractive.com/r/3618417"/>
-    <time>2022-04-27T03:03:25.793</time>
-    <extensions>
-      <oa:oaCategory>hikingTourTrail</oa:oaCategory>
-    </extensions>
+    <name>Felsenweg Ernzen</name>
   </metadata>
   <trk>
-    <name>Circular walk NaturWanderPark delux: Felsenweg 6 (Ernzen/Teufelsschlucht)</name>
-    <desc><![CDATA[The devil himself stamped his mark on the Felsenweg 6 rocky path route. The work of the devil is documented in crevasses and clefts in the rocky bastions of the Ferschweiler plateau - above all in the 28 m crevasse named after the devil, the “Teufelsschlucht”. Rarely has the brute force of nature taken such an impressive form as the Irreler Wasserfälle waterfalls. Over a length of 140 meters, the clear water of the Prüm river battles its way through huge stone blocks. The foot bridge over the Prüm opens up a fascinating view onto this natural spectacle. When it comes to views: from the Liborius chapel high up above the Sauertal valley, there is a wonderful view onto romantic Echternach. The cells, which have been hewn into the rock below the chapel, were inhabited from the 16th century onwards by hermit monks, and their ruins can still be admired today. The entrance to the Gutenbachtal valley is marked by the Felsenweiher pool, a strange complex, surrounded by terraces, basins, stairs and bridges. The Teufelsschlucht nature park centre offers tours to enable visitors to experience this spectacular landscape.]]></desc>
-    <type>hikingTourTrail</type>
     <trkseg>
       <trkpt lat="49.820983" lon="6.421485">
         <ele>314.09394</ele>

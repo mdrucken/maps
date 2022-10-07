@@ -1,16 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1" version="1.1" creator="outdooractive - http://www.outdooractive.com">
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
   <metadata>
-    <name>Traufgang Wacholderhöhe in Albstadt</name>
-    <author>
-      <name>Ulrike Wieland - Albstadt Tourismus</name>
-    </author>
-    <link href="http://www.outdooractive.com/r/1508840"/>
-    <time>2020-03-10T06:59:19.885</time>
+    <name>Traufgang Wacholderhöhe</name>
   </metadata>
   <trk>
-    <name>Traufgang Wacholderhöhe in Albstadt</name>
-    <desc>Die Tour ist die ideale Kombination aus Erleben und Entspannen - Geschichtliche Überreste einer Burg, Silberdisteln, Sandlöchern sowie Felsformationen und tollen Fernsichten.</desc>
     <trkseg>
       <trkpt lat="48.257184" lon="9.037934">
         <ele>887.178</ele>

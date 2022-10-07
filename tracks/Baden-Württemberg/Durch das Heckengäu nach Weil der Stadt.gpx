@@ -1,17 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1" version="1.1" creator="outdooractive - http://www.outdooractive.com">
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
   <metadata>
     <name>Durch das Heckengäu nach Weil der Stadt</name>
-    <author>
-      <name>Wolfgang Schulz - DAV Sektion Schwaben</name>
-    </author>
-    <link href="http://www.outdooractive.com/r/32915344"/>
-    <time>2020-04-06T11:32:53.442</time>
   </metadata>
   <trk>
-    <name>Durch das Heckengäu nach Weil der Stadt</name>
-    <desc>Abwechslungsreiche, historische Wanderung durch das Heckengaü zur ehemaligen Freien Reichsstadt Weil der Stadt. Durch das idyllische Würmtal geht es dann zurück nach Döffingen.</desc>
-    <type>hikingTourTrail</type>
     <trkseg>
       <trkpt lat="48.710536" lon="8.911128">
         <ele>408.5</ele>

@@ -1,20 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gpx version="1.1" creator="outdooractive - http://www.outdooractive.com" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1">
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
   <metadata>
-    <name>Moselsteig Side Trail Extratour Zitronenkrämerkreuz</name>
-    <author>
-      <name>Mosellandtouristik GmbH - Mosel. Faszination Urlaub</name>
-    </author>
-    <link href="https://www.outdooractive.com/r/7078909"/>
-    <time>2022-04-30T03:06:01.141</time>
-    <extensions>
-      <oa:oaCategory>hikingTourTrail</oa:oaCategory>
-    </extensions>
+    <name>Moselsteig Extratour Zitronenkrämerkreuz</name>
   </metadata>
   <trk>
-    <name>Moselsteig Side Trail Extratour Zitronenkrämerkreuz</name>
-    <desc>Beautiful villages. Stunning views. Impressive history.</desc>
-    <type>hikingTourTrail</type>
     <trkseg>
       <trkpt lat="49.80046" lon="6.83929">
         <ele>252.09676</ele>

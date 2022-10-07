@@ -1,17 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1" version="1.1" creator="outdooractive - http://www.outdooractive.com">
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
   <metadata>
     <name>Wehlen - Bastei - Amselgrund - Rathen - Wehlen</name>
-    <author>
-      <name>Joachim Beetz - Community</name>
-    </author>
-    <link href="https://www.outdooractive.com/r/105666269"/>
-    <time>2020-03-10T08:24:14.600</time>
   </metadata>
   <trk>
-    <name>Wehlen - Bastei - Amselgrund - Rathen - Wehlen</name>
-    <desc>Stadt Wehlen über Uttewalder Gund, Waldidylle zum Steinernen Tisch, weiter zur Basteiaussicht. Von dort nach Rathewalde, über den einfacheren Abstieg am Amselfall vorbei zum Amselsee, weiter über Rathen, den Elbradweg zurück nach Stadt Wehlen.</desc>
-    <type>hikingTourTrail</type>
     <trkseg>
       <trkpt lat="50.955995" lon="14.031562">
         <ele>114.01516</ele>

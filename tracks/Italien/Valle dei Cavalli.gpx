@@ -1,20 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gpx version="1.1" creator="outdooractive - http://www.outdooractive.com" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1">
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
   <metadata>
-    <name>Dimaro, Valle dei Cavalli</name>
-    <author>
-      <name>VisitTrentino - APT Valli di Sole, Peio e Rabbi</name>
-    </author>
-    <link href="https://www.outdooractive.com/r/6117527"/>
-    <time>2022-04-09T10:57:33.767</time>
-    <extensions>
-      <oa:oaCategory>mountaineering</oa:oaCategory>
-    </extensions>
+    <name>Valle dei Cavalli</name>
   </metadata>
   <trk>
-    <name>Dimaro, Valle dei Cavalli</name>
-    <desc>Un trekking che regala dei bellissimi panorami sulla Val di Sole</desc>
-    <type>mountaineering</type>
     <trkseg>
       <trkpt lat="46.323645" lon="10.886656">
         <ele>815.64488</ele>

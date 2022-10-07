@@ -1,20 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gpx version="1.1" creator="outdooractive - http://www.outdooractive.com" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1">
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
   <metadata>
-    <name>Märchenseerunde</name>
-    <author>
-      <name>Alexander Wolf - Community</name>
-    </author>
-    <link href="https://www.outdooractive.com/r/101465378"/>
-    <time>2019-07-09T07:28:59.824</time>
-    <extensions>
-      <oa:oaCategory>hikingTourTrail</oa:oaCategory>
-    </extensions>
+    <name>Maerchenseerunde</name>
   </metadata>
   <trk>
-    <name>Märchenseerunde</name>
-    <desc>Schöne Runde im Neckartal</desc>
-    <type>hikingTourTrail</type>
     <trkseg>
       <trkpt lat="48.502779" lon="8.962741">
         <ele>346.00283</ele>

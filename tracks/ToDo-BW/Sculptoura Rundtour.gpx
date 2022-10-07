@@ -1,17 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gpx version="1.1" creator="outdooractive - http://www.outdooractive.com" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1">
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
   <metadata>
-    <name>SCULPTOURA - Rundtour 3 (Holzgerlingen - Waldenbuch)</name>
-    <link href="https://www.outdooractive.com/r/20657713"/>
-    <time>2020-12-17T16:31:50.380</time>
-    <extensions>
-      <oa:oaCategory>cycling</oa:oaCategory>
-    </extensions>
+    <name>Sculptoura Rundtour</name>
   </metadata>
   <trk>
-    <name>SCULPTOURA - Rundtour 3 (Holzgerlingen - Waldenbuch)</name>
-    <desc>Kunst am Wegesrand / Skulpturen aus Holz, Metall und Stein platziert mitten in der Natur. / Zwischen den Werken lässt die herrliche Schönheit der Natur den Betrachter zur Ruhe kommen und schafft Raum für den nächsten Kunstgenuss.</desc>
-    <type>cycling</type>
     <trkseg>
       <trkpt lat="48.637957" lon="9.007414">
         <ele>482.6</ele>

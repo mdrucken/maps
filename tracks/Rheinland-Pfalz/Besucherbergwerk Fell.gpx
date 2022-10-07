@@ -1,20 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gpx version="1.1" creator="outdooractive - http://www.outdooractive.com" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1">
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
   <metadata>
-    <name>Wanderrundweg Fell - Besucherbergwerk Fell - Fellerhof - Fell (R13)</name>
-    <author>
-      <name>Jochen Conrad - Verein Römische Weinstraße e.V.</name>
-    </author>
-    <link href="https://www.outdooractive.com/r/25187893"/>
-    <time>2022-04-04T12:42:30.596</time>
-    <extensions>
-      <oa:oaCategory>hikingTourTrail</oa:oaCategory>
-    </extensions>
+    <name>Besucherbergwerk Fell</name>
   </metadata>
   <trk>
-    <name>Wanderrundweg Fell - Besucherbergwerk Fell - Fellerhof - Fell (R13)</name>
-    <desc><![CDATA[Die Strecke ist 9,4 km lang und als mittelschwer- schwer einzustufen. Mit Pausen sollte man 4-5 Stunden einplanen. Der Bergwerkweg besticht in der ersten Hälfte des Weges durch einen schweren, teilweise sehr steilen Anstieg der den Wanderer über das Feller Bergwerk bis zum Fellerhof auf knapp 410 m. ü. NN führt. Kurz nach dem Fellerhof beginnt der Rückweg bzw. Abstieg nach Fell. Der Bergwerkweg ist beschildert mit „R 13“.]]></desc>
-    <type>hikingTourTrail</type>
     <trkseg>
       <trkpt lat="49.770081" lon="6.783567">
         <ele>178.6</ele>

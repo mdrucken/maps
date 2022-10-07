@@ -1,20 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gpx version="1.1" creator="outdooractive - http://www.outdooractive.com" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1">
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
   <metadata>
-    <name>Tonale Punta Torrione d&apos;Albiolo il 29 luglio 2020 08:12</name>
-    <author>
-      <name>Mariarosa Mattanza - Community</name>
-    </author>
-    <link href="https://www.outdooractive.com/r/203030215"/>
-    <time>2021-09-14T15:52:26.927</time>
-    <extensions>
-      <oa:oaCategory>viaferrata</oa:oaCategory>
-    </extensions>
+    <name>Punta torrione</name>
   </metadata>
   <trk>
-    <name>Tonale Punta Torrione d&apos;Albiolo il 29 luglio 2020 08:12</name>
-    <desc>Per il giro circolare Malga Vabiolo/Malga Valbiolo bisogna mettere in conto un’ escursione di circa ore 5.30, adatta ad escursionisti esperti attrezzati con kit da ferrata. Il periodo consigliato va da metà luglio a settembre, ma soprattutto da evitare se ci fosse neve e ghiaccio.</desc>
-    <type>viaferrata</type>
     <trkseg>
       <trkpt lat="46.26744" lon="10.591589">
         <ele>1968.81481</ele>

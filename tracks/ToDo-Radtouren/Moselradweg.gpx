@@ -1,20 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gpx version="1.1" creator="outdooractive - http://www.outdooractive.com" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1">
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
   <metadata>
-    <name>Mosel Cycle Path (in full): From Perl to Koblenz</name>
-    <author>
-      <name>Mosellandtouristik GmbH - Mosel. Faszination Urlaub</name>
-    </author>
-    <link href="https://www.outdooractive.com/r/3371404"/>
-    <time>2022-05-11T03:05:33.878</time>
-    <extensions>
-      <oa:oaCategory>longDistanceCyclingTrack</oa:oaCategory>
-    </extensions>
+    <name>Moselradweg</name>
   </metadata>
   <trk>
-    <name>Mosel Cycle Path (in full): From Perl to Koblenz</name>
-    <desc>The Mosel Cycle Path leads through 248 kilometres of diverse landscape; rambling and secluded in parts, pretty spectacular in others. </desc>
-    <type>longDistanceCyclingTrack</type>
     <trkseg>
       <trkpt lat="49.474293" lon="6.369477">
         <ele>149.02163</ele>

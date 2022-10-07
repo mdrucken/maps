@@ -1,17 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1" version="1.1" creator="outdooractive - http://www.outdooractive.com">
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
   <metadata>
-    <name>Löwenpfad &quot;Filsursprung-Runde&quot; - Natur pur rund um den Reußenstein</name>
-    <author>
-      <name>Landkreis Göppingen - Landkreis Göppingen</name>
-    </author>
-    <link href="http://www.outdooractive.com/r/23355898"/>
-    <time>2020-04-12T16:51:52.428</time>
+    <name>Löwenpfad Filsursprung-Runde</name>
   </metadata>
   <trk>
-    <name>Löwenpfad &quot;Filsursprung-Runde&quot; - Natur pur rund um den Reußenstein</name>
-    <desc><![CDATA[Abwechslung pur finden Sie auf unserem Löwenpfad in Wiesensteig. Folgen Sie dem idyllischen Lauf der jungen Fils, genießen Sie die sagenhaften Ausblicke und die mystische Kulisse der Ruine Reußenstein oder lassen Sie sich von den verträumten Hohlwegen im Autal oder nahe der Schertelshöhle begeistern. Eine Runde Natur pur in Wiesensteig!]]></desc>
-    <type>hikingTourTrail</type>
     <trkseg>
       <trkpt lat="48.562049" lon="9.598651">
         <ele>613.2</ele>

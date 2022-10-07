@@ -1,20 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gpx version="1.1" creator="outdooractive - http://www.outdooractive.com" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1">
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
   <metadata>
-    <name>Zu versteckten Seen und zum Waldkulturerbe</name>
-    <author>
-      <name>Horst Haninger - Community</name>
-    </author>
-    <link href="https://www.outdooractive.com/r/104460280"/>
-    <time>2021-09-14T06:53:52.508</time>
-    <extensions>
-      <oa:oaCategory>hikingTourTrail</oa:oaCategory>
-    </extensions>
+    <name>Zu versteckten Seen</name>
   </metadata>
   <trk>
-    <name>Zu versteckten Seen und zum Waldkulturerbe</name>
-    <desc>Vom [P] zwischen Ob.Raumühle und Ob.Sägmühle nach Steinenbronn. Weiter zum Sulzbachstausee. Aus dem Aichtal zum Waldnaturerbe und zum Fäulbachsee.</desc>
-    <type>hikingTourTrail</type>
     <trkseg>
       <trkpt lat="48.643506" lon="9.10882">
         <ele>361.3</ele>

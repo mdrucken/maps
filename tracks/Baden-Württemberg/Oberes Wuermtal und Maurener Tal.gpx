@@ -1,20 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gpx version="1.1" creator="outdooractive - http://www.outdooractive.com" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1">
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
   <metadata>
-    <name>Oberes Würmtal und Maurener Tal</name>
-    <author>
-      <name>Eberhard Kiefer - Community</name>
-    </author>
-    <link href="https://www.outdooractive.com/r/188037309"/>
-    <time>2020-10-28T08:12:29.92</time>
-    <extensions>
-      <oa:oaCategory>hikingTourTrail</oa:oaCategory>
-    </extensions>
+    <name>Oberes Wuermtal und Maurener Tal</name>
   </metadata>
   <trk>
-    <name>Oberes Würmtal und Maurener Tal</name>
-    <desc>Panoramawanderung durch das obere Würmtal, mit Umrundung des hildrizhausener Kirchhügels.</desc>
-    <type>hikingTourTrail</type>
     <trkseg>
       <trkpt lat="48.638538" lon="9.007283">
         <ele>483.8</ele>

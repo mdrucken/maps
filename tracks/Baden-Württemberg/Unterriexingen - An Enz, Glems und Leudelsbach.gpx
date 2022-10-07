@@ -1,20 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gpx version="1.1" creator="outdooractive - http://www.outdooractive.com" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1">
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
   <metadata>
     <name>Unterriexingen - An Enz, Glems und Leudelsbach</name>
-    <author>
-      <name>Günther Weinert - Wanderfex - Community</name>
-    </author>
-    <link href="https://www.outdooractive.com/r/109184645"/>
-    <time>2020-07-06T16:52:22.696</time>
-    <extensions>
-      <oa:oaCategory>hikingTourTrail</oa:oaCategory>
-    </extensions>
   </metadata>
   <trk>
-    <name>Unterriexingen - An Enz, Glems und Leudelsbach</name>
-    <desc>Lieben Sie die Nähe zum Wasser? Dann sind Sie bei dieser Wanderung am richtigen Ort. Denn es gilt gleich drei Gewässer zu erkunden.</desc>
-    <type>hikingTourTrail</type>
     <trkseg>
       <trkpt lat="48.937598" lon="9.060633">
         <ele>211.24785</ele>

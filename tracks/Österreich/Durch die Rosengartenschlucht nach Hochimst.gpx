@@ -1,17 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1" version="1.1" creator="outdooractive - http://www.outdooractive.com">
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
   <metadata>
     <name>Durch die Rosengartenschlucht nach Hochimst</name>
-    <author>
-      <name>Hartmut Wimmer - Outdooractive Redaktion</name>
-    </author>
-    <link href="https://www.outdooractive.com/r/14207435"/>
-    <time>2020-02-21T08:37:55.39</time>
   </metadata>
   <trk>
-    <name>Durch die Rosengartenschlucht nach Hochimst</name>
-    <desc>Die Wanderung führt uns vom Stadtzentrum Imst durch die Rosengartenschlucht nach Hochimst. Der Weg durch die Schlucht ist mit einem Geländer gesichert und somit auch für Familien gut geeignet. </desc>
-    <type>hikingTourTrail</type>
     <trkseg>
       <trkpt lat="47.241997" lon="10.73867">
         <ele>801.5</ele>

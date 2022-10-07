@@ -1,17 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1" version="1.1" creator="outdooractive - http://www.outdooractive.com">
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
   <metadata>
-    <name> Radelrund</name>
-    <author>
-      <name>Landratsamt Böblingen - Tourenportal Schönbuch &amp; Heckengäu</name>
-    </author>
-    <link href="http://www.outdooractive.com/r/18516499"/>
-    <time>2019-05-20T10:18:56.998</time>
+    <name>Radelrund</name>
   </metadata>
   <trk>
-    <name> Radelrund</name>
-    <desc>Familienfreundliches Radeln rund um Böblingen und Sindelfingen Länge der Tour: 36 km Ein Einstieg ist überall möglich, die Tour ist in beiden Richtungen ausgeschildert. Die Wege sind teils asphaltiert, überwiegend geschottert.</desc>
-    <type>cycling</type>
     <trkseg>
       <trkpt lat="48.726768" lon="8.982185">
         <ele>451.2</ele>

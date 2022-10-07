@@ -1,20 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gpx version="1.1" creator="outdooractive - http://www.outdooractive.com" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1">
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
   <metadata>
-    <name>Dettenhausen-Schaichtal-zurück</name>
-    <author>
-      <name>Kurt Klein - Community</name>
-    </author>
-    <link href="https://www.outdooractive.com/r/103999505"/>
-    <time>2020-05-17T18:32:27.524</time>
-    <extensions>
-      <oa:oaCategory>hikingTourTrail</oa:oaCategory>
-    </extensions>
+    <name>Dettenhausen-Schaichtal</name>
   </metadata>
   <trk>
-    <name>Dettenhausen-Schaichtal-zurück</name>
-    <desc>Rundtour für sonnige Tage von Dettenhausen durch den Wald und zurück durchs wildromatische Naturschutzgebiet Schaichtal / Start und Zielpunkt ist der Bahnhof Dettenhausen</desc>
-    <type>hikingTourTrail</type>
     <trkseg>
       <trkpt lat="48.606356" lon="9.093311">
         <ele>414.4</ele>

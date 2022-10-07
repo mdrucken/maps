@@ -1,20 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gpx version="1.1" creator="outdooractive - http://www.outdooractive.com" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1">
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
   <metadata>
-    <name>Land.Tour Venusberg</name>
-    <author>
-      <name>Landratsamt Böblingen - Tourenportal Schönbuch &amp; Heckengäu</name>
-    </author>
-    <link href="https://www.outdooractive.com/r/11437301"/>
-    <time>2020-11-09T09:54:04.796</time>
-    <extensions>
-      <oa:oaCategory>hikingTourTrail</oa:oaCategory>
-    </extensions>
+    <name>Land Tour Venusberg</name>
   </metadata>
   <trk>
-    <name>Land.Tour Venusberg</name>
-    <desc>NaturKunst im Herzen des Heckengäus. Kunst und Natur bilden hier eine wunderbare Symbiose und sind damit mehr als ein schöner Blickfang auf dieser LandTour.</desc>
-    <type>hikingTourTrail</type>
     <trkseg>
       <trkpt lat="48.685803" lon="8.889136">
         <ele>463.4</ele>

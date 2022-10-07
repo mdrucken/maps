@@ -1,17 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1" version="1.1" creator="outdooractive - http://www.outdooractive.com">
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
   <metadata>
-    <name>Rundwanderung: Schrammsteinaussicht &amp; Hohe Liebe</name>
-    <author>
-      <name>Ronny Siegel - AV-alpenvereinaktiv.com</name>
-    </author>
-    <link href="https://www.outdooractive.com/r/13942560"/>
-    <time>2020-03-10T08:16:29.802</time>
+    <name>Schrammsteinaussicht &amp; Hohe Liebe</name>
   </metadata>
   <trk>
-    <name>Rundwanderung: Schrammsteinaussicht &amp; Hohe Liebe</name>
-    <desc>Kleine Rundwanderung zur Schrammsteinaussicht und Hohe Liebe mit einer der schönsten Aussichten in der Sächsischen Schweiz. Dauer ca. 3 Stunden.</desc>
-    <type>hikingTourTrail</type>
     <trkseg>
       <trkpt lat="50.919219" lon="14.190505">
         <ele>192.23885</ele>

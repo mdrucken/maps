@@ -1,20 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gpx version="1.1" creator="outdooractive - http://www.outdooractive.com" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1">
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
   <metadata>
-    <name>14 - Cinque laghi - Madonna di Campiglio - 14-09-19</name>
-    <author>
-      <name>Walter Besutti - Community</name>
-    </author>
-    <link href="https://www.outdooractive.com/r/124708090"/>
-    <time>2022-03-07T13:40:21.543</time>
-    <extensions>
-      <oa:oaCategory>mountaineering</oa:oaCategory>
-    </extensions>
+    <name>Cinque laghi</name>
   </metadata>
   <trk>
-    <name>14 - Cinque laghi - Madonna di Campiglio - 14-09-19</name>
-    <desc>Percorso ad anello che tocca i 5 laghi (in realtà sono 6) sopra Madonna di Campiglio.</desc>
-    <type>mountaineering</type>
     <trkseg>
       <trkpt lat="46.231046" lon="10.815973">
         <ele>1726.74717</ele>

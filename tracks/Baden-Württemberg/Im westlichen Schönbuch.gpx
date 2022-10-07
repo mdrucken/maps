@@ -1,17 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1" version="1.1" creator="outdooractive - http://www.outdooractive.com">
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
   <metadata>
     <name>Im westlichen Schönbuch</name>
-    <author>
-      <name>Wolfgang Schulz - DAV Sektion Schwaben</name>
-    </author>
-    <link href="https://www.outdooractive.com/r/22605702"/>
-    <time>2020-05-02T21:30:02.965</time>
   </metadata>
   <trk>
-    <name>Im westlichen Schönbuch</name>
-    <desc>Aussichtsreiche Wanderung am südwestlichen Schönbuchrand. Durch den herrlichen Wald des Naturparks und und durch das idyllische Arenbachtal am Wildgehege vorbei geht es zum Schönbuchtrauf mit schönem Blick auf die Schwäbische Alb.</desc>
-    <type>hikingTourTrail</type>
     <trkseg>
       <trkpt lat="48.529504" lon="8.97844">
         <ele>373.5</ele>

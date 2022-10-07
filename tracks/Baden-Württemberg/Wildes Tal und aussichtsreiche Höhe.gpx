@@ -1,20 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gpx version="1.1" creator="outdooractive - http://www.outdooractive.com" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1">
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
   <metadata>
     <name>Wildes Tal und aussichtsreiche Höhe</name>
-    <author>
-      <name>Manuela Röskamm - Tourismus GmbH Nördlicher Schwarzwald</name>
-    </author>
-    <link href="https://www.outdooractive.com/r/11183352"/>
-    <time>2020-07-31T11:13:21.542</time>
-    <extensions>
-      <oa:oaCategory>hikingTourTrail</oa:oaCategory>
-    </extensions>
   </metadata>
   <trk>
-    <name>Wildes Tal und aussichtsreiche Höhe</name>
-    <desc>Diese Rundwanderung führt den Wanderer von Calw aus ins klösterliche Hirsau und durch das urwüchsige und wildromantische Schweinbachtal nach Altburg. Über Alzenberg führt die Wanderung zurück nach Calw. /</desc>
-    <type>hikingTourTrail</type>
     <trkseg>
       <trkpt lat="48.714187" lon="8.739095">
         <ele>337.7</ele>

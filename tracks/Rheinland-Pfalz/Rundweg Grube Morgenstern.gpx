@@ -1,20 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gpx version="1.1" creator="outdooractive - http://www.outdooractive.com" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1">
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
   <metadata>
-    <name>Rundweg Grube Morgenstern, Landwehrkreuz</name>
-    <author>
-      <name>Engelbert Meisberger - Community</name>
-    </author>
-    <link href="https://www.outdooractive.com/r/166939953"/>
-    <time>2022-01-31T13:50:40.581</time>
-    <extensions>
-      <oa:oaCategory>hikingTourTrail</oa:oaCategory>
-    </extensions>
+    <name>Rundweg Grube Morgenstern</name>
   </metadata>
   <trk>
-    <name>Rundweg Grube Morgenstern, Landwehrkreuz</name>
-    <desc>schöner Rundweg mit fantastischen Ausblickpunkten</desc>
-    <type>hikingTourTrail</type>
     <trkseg>
       <trkpt lat="49.823177" lon="6.755181">
         <ele>131.31605</ele>

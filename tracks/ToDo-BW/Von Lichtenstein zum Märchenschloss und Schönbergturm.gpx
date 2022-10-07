@@ -1,17 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1" version="1.1" creator="outdooractive - http://www.outdooractive.com">
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
   <metadata>
     <name>Von Lichtenstein zum Märchenschloss und Schönbergturm</name>
-    <author>
-      <name>Walter Biselli - Schwarzwaldverein Radolfzell</name>
-    </author>
-    <link href="http://www.outdooractive.com/r/42131709"/>
-    <time>2020-02-11T19:33:10.682</time>
   </metadata>
   <trk>
-    <name>Von Lichtenstein zum Märchenschloss und Schönbergturm</name>
-    <desc>Auf dem Hauptwanderweg 5 des Schwäbischen Albvereins führt die aussichtsreiche Tour vom &quot;lichten Stein&quot; zur Nebelhöhle und dem markanten Schönbergturm nach Pfullingen.</desc>
-    <type>hikingTourTrail</type>
     <trkseg>
       <trkpt lat="48.403025" lon="9.271575">
         <ele>703.8</ele>

@@ -1,20 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gpx version="1.1" creator="outdooractive - http://www.outdooractive.com" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1">
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
   <metadata>
-    <name>Tier und Naturerlebnisweg Kamelhof Weil im Schönbuch 10 km</name>
-    <author>
-      <name>Schwäbischer Albverein OG Weil im Schönbuch - Community</name>
-    </author>
-    <link href="https://www.outdooractive.com/r/222824695"/>
-    <time>2021-09-16T11:24:42.862</time>
-    <extensions>
-      <oa:oaCategory>hikingTourTrail</oa:oaCategory>
-    </extensions>
+    <name>t222824695_tier und naturerlebnis</name>
   </metadata>
   <trk>
-    <name>Tier und Naturerlebnisweg Kamelhof Weil im Schönbuch 10 km</name>
-    <desc><![CDATA[Entfliehen Sie für wenige Stunden dem Alltag und genießen Sie mit Ihren Liebsten die Natur. Der Tier- und Naturerlebnisweg Kamelhof Weil im Schönbuch führt euch durch die grüne Natur und durch die bunte Kulturlandschaft des Schönbuches. Bereichert wird der Weg mit der vorhandenen Flora, Fauna und verschiedenen Tieren wie Pferde, Weidekühe, Esel, Kamele, Lamas und Ziegen. Diese können mit einem informativen Programm zusammen mit deren Haltern besucht werden. Kinder werden daran ihre wahre Freude haben. / Weil im Schönbuch bietet nicht nur eine abwechslungsreiche Naturlandschaft, sondern auch was für den Gaumen. Sollten sie hier für mehrere Tage verweilen wollen, gibt es die Möglichkeit der Übernachtung. / Hinweis: Keine Beschilderung. Begehung per Navigation per Download- Karten und Outdooractive App.]]></desc>
-    <type>hikingTourTrail</type>
     <trkseg>
       <trkpt lat="48.620343" lon="9.062126">
         <ele>456.9</ele>
@@ -88,8 +77,8 @@
       </trkpt>
       <trkpt lat="48.62148" lon="9.061456">
         <ele>479.5</ele>
-        <name><![CDATA[Martinskirche	]]></name>
-        <desc><![CDATA[Die gotische Kirche wurde anstelle einer im 12. Jh durch die Pfalzgrafen von Tübingen errichteten romanischen Kirche erbaut. Sie war eine Wehrkirche, zu der auch eine starke Mauer gehörte. Lediglich der Turm, den wir auf etwa 1180 datieren, stammt noch von der Vorgängerkirche. Er zeigt heute noch Schießscharten. Erbaut wurde diese Kirche von den Bebenhäuser Mönchen, die im 13. Jh durch Schenkung in den Besitz von Dorf und Kirche kamen. Unter Abt Bernhard Rockenbauch ist der Bau, beginnend mit dem Chor ab 1480 und endend mit dem Langschiff um 1508, entstanden. Die Erneuerung des Dachstuhls erfolgte 1766. Im Jahre 1904 wurde die Vorhalle gegen den Marktplatz mit Treppe zur Empore angebaut. Die Martinskirche war lange Zeit Tauf- und Mutterkirche für 11 Filialen. ]]></desc>
+        <name>Martinskirche	</name>
+        <desc>Die gotische Kirche wurde anstelle einer im 12. Jh durch die Pfalzgrafen von Tübingen errichteten romanischen Kirche erbaut. Sie war eine Wehrkirche, zu der auch eine starke Mauer gehörte. Lediglich der Turm, den wir auf etwa 1180 datieren, stammt noch von der Vorgängerkirche. Er zeigt heute noch Schießscharten. Erbaut wurde diese Kirche von den Bebenhäuser Mönchen, die im 13. Jh durch Schenkung in den Besitz von Dorf und Kirche kamen. Unter Abt Bernhard Rockenbauch ist der Bau, beginnend mit dem Chor ab 1480 und endend mit dem Langschiff um 1508, entstanden. Die Erneuerung des Dachstuhls erfolgte 1766. Im Jahre 1904 wurde die Vorhalle gegen den Marktplatz mit Treppe zur Empore angebaut. Die Martinskirche war lange Zeit Tauf- und Mutterkirche für 11 Filialen. </desc>
         <sym>waypointFlagComb</sym>
         <extensions>
           <oa:locType>routingNode</oa:locType>
@@ -105,7 +94,7 @@
       <trkpt lat="48.621411" lon="9.061227">
         <ele>479.4</ele>
         <name>Marktplatz, Rathaus, Kirche</name>
-        <desc><![CDATA[https://www.weil-im-schoenbuch.de
+        <desc>https://www.weil-im-schoenbuch.de
 
 Ortsportrait
 Im Jahre 1188 wurde „Weyl im Schaienbuch“ zum ersten Mal urkundlich erwähnt. Gegen Ende des 13. Jahrhunderts war Weil im Schönbuch zusammen mit Neuweiler und Breitenstein fast vollständig im Besitz des Klosters Bebenhausen mit allen Vor- und Nachteilen eines Klosterortes. Die Klostergrundherrschaft Bebenhausen wurde in der Reformationszeit im Jahre 1535 aufgelöst.
@@ -115,7 +104,7 @@ Am 9. April 1559 sind dem Brandstifter Enderlin Seitz bis auf das einzeln stehen
 Nach dem 2. Weltkrieg stieg die Bevölkerungszahl rasant an. Zwischen 1945 und 1948 wuchs die Bevölkerung von 2.300 auf 3.300 Menschen an. Heute leben ca. 10.100 Menschen in Weil im Schönbuch.
  
 Bis in die 60er Jahre waren Weil im Schönbuch, Neuweiler und Breitenstein ganz überwiegend landwirtschaftlich geprägt. In eigenen Gewerbegebieten und im Ende der 90er Jahre gemeinsam mit der Nachbargemeinde Holzgelingen geschaffenen Gewerbegebiet Sol entstanden zahlreiche handwerkliche und mittelständische Arbeitsplätze. Viele der hier lebenden Menschen arbeiten in den Großbetrieben der Automobilindustrie und der Informationstechnologie hier der Region.
-]]></desc>
+</desc>
         <sym>waypointFlagComb</sym>
         <extensions>
           <oa:mapZoom>19</oa:mapZoom>
@@ -133,10 +122,10 @@ Bis in die 60er Jahre waren Weil im Schönbuch, Neuweiler und Breitenstein ganz 
       <trkpt lat="48.621279" lon="9.060507">
         <ele>479.8</ele>
         <name>Ristorante Bocelli</name>
-        <desc><![CDATA[www.ristorante-bocelli.de
+        <desc>www.ristorante-bocelli.de
 BENVENUTI AL RISTORANTE BOCELLI
  Für Sie bereiten wir unsere selbst kreierten Gourmetmenüs mit italienischer Leidenschaft und der Auswahl bester Zutaten zu. Nehmen Sie sich Zeit, unsere köstlichen Gerichte zu genießen. Selbstverständlich bieten wir Ihnen auch vegetarische und allergikergerechte Speisen an. Wir freuen uns sehr auf Ihren Besuch.  
-Mirela & Massimo ]]></desc>
+Mirela &amp; Massimo </desc>
         <sym>waypointFlagComb</sym>
         <extensions>
           <oa:mapZoom>17</oa:mapZoom>
@@ -245,10 +234,10 @@ Mirela & Massimo ]]></desc>
       <trkpt lat="48.624407" lon="9.059659">
         <ele>462.8</ele>
         <name>Plankenhorn´s heiße Kiste</name>
-        <desc><![CDATA[https://plankenhorns-heisse-kiste.webnode.com/
+        <desc>https://plankenhorns-heisse-kiste.webnode.com/
 
 UNSERE GESCHICHTE mit Liebe zubereitet.
-Wir sind ein kleines Familienunternehmen, welches sich überwiegend der regionalen Küche verschrieben hat. Mit liebevoll zusammengestellten Arrangements wollen wir unsere Kunden erfreuen. Hierbei kommen hochwertige Produkte zum Einsatz, die nach traditionell handwerklichen Methoden verarbeitet werden.]]></desc>
+Wir sind ein kleines Familienunternehmen, welches sich überwiegend der regionalen Küche verschrieben hat. Mit liebevoll zusammengestellten Arrangements wollen wir unsere Kunden erfreuen. Hierbei kommen hochwertige Produkte zum Einsatz, die nach traditionell handwerklichen Methoden verarbeitet werden.</desc>
         <sym>waypointFlagComb</sym>
         <extensions>
           <oa:mapZoom>17</oa:mapZoom>
@@ -875,7 +864,7 @@ Hier gibt es richtig leckeres italienisches Eis.</desc>
       <trkpt lat="48.629758" lon="9.09499">
         <ele>408.8</ele>
         <name>Oase Weil</name>
-        <desc><![CDATA[https://oaseweil.de
+        <desc>https://oaseweil.de
 
 Pro-Natur, Kultur und wertes Leben.
 Willkommen in der OaseWeil.
@@ -883,7 +872,7 @@ Pro-Natur, Kultur und wertes Leben.
 Willkommen in der OaseWeil
 Zwischen Wald und Wiesen eingebettet liegt die OaseWeil mit ihrem märchenhaften Ensemble von Baumhäusern, mit den Ayurveda Massage-und Behandlungsräumen im Haupthaus der Anlage sowie der Schönbuchhalle Weil, die für private und geschäftliche Veranstaltungen aller Art inmitten dieser wunderbaren Natur zur Verfügung steht.
 Es eröffnen sich im sprichwörtlichen Sinne neue Lebensräume und hier finden Sie die Balance zwischen Erlebnis und Entspannung.
-Nach Lust und Laune ist unser Baumhaus-Dorf der ideale Ausgangspunkt für vielfältige Aktivitäten in der näheren und weiteren Umgebung wie Reiten, Golfen, Kamelhof und Falknerei besuchen, Lagerverkauf berühmter Marken nutzen, Thermalbad genießen, E-Bike mieten und die Umgebung erkunden, eine individuell geführte Tour durch den Naturpark Schönbuch buchen, oder ein Ort zum Erholen und Genießen und sich von unseren Ayurveda-Therapeuten mit heilsamen Massagen verwöhnen zu lassen.]]></desc>
+Nach Lust und Laune ist unser Baumhaus-Dorf der ideale Ausgangspunkt für vielfältige Aktivitäten in der näheren und weiteren Umgebung wie Reiten, Golfen, Kamelhof und Falknerei besuchen, Lagerverkauf berühmter Marken nutzen, Thermalbad genießen, E-Bike mieten und die Umgebung erkunden, eine individuell geführte Tour durch den Naturpark Schönbuch buchen, oder ein Ort zum Erholen und Genießen und sich von unseren Ayurveda-Therapeuten mit heilsamen Massagen verwöhnen zu lassen.</desc>
         <sym>waypointFlagComb</sym>
         <extensions>
           <oa:mapZoom>17</oa:mapZoom>
@@ -1027,13 +1016,13 @@ Nach Lust und Laune ist unser Baumhaus-Dorf der ideale Ausgangspunkt für vielf�
       <trkpt lat="48.628665" lon="9.089598">
         <ele>409.5</ele>
         <name>Kamelhof Weil im Schönbuch</name>
-        <desc><![CDATA[http://www.kamele-weil-im-schoenbuch.de
+        <desc>http://www.kamele-weil-im-schoenbuch.de
 
 Mit Leib und Seele dabei!
 Auf unserem Hof wird alles angeboten, was Kinder- und Erwachsenenherzen höherschlagen lässt. Unser Freizeitangebot ist vielseitig, optimal auf Kinder und Erwachsene abgestimmt und perfekt, um dem Schul- und Alltagsstress für die ein oder andere Stunde zu entkommen.
 Dazu bieten wir an: Kutschenfahrten, Kamel-Kennenlern-Stunden - Wissenswertes über Kamele erfahren, Kamelspaziergänge, Lama- Eseltouren, Glühweinwanderungen mit Kamelen, Lamas oder Eseln. Wald-Zwitscherkastentouren, Kindergeburtstage mit Kamelen und Eseln. Wald-Kindergeburtstage mit Eseln. Schulklassen grünes Klassenzimmer, Schullandheime mit Übernachtung im Strohstadel, Kindergartenbesuche, Betriebsausflüge und Wanderziel „Kamelhof“.
 
-Wir freuen uns auf Sie! Das Team der Kamele in Weil im Schönbuch]]></desc>
+Wir freuen uns auf Sie! Das Team der Kamele in Weil im Schönbuch</desc>
         <sym>waypointFlagComb</sym>
         <extensions>
           <oa:mapZoom>17</oa:mapZoom>
@@ -1250,13 +1239,13 @@ Wir freuen uns auf Sie! Das Team der Kamele in Weil im Schönbuch]]></desc>
       <trkpt lat="48.626462" lon="9.088542">
         <ele>444.9</ele>
         <name>Kamelhof Weil im Schönbuch</name>
-        <desc><![CDATA[http://www.kamele-weil-im-schoenbuch.de
+        <desc>http://www.kamele-weil-im-schoenbuch.de
 
 Mit Leib und Seele dabei!
 Auf unserem Hof wird alles angeboten, was Kinder- und Erwachsenenherzen höherschlagen lässt. Unser Freizeitangebot ist vielseitig, optimal auf Kinder und Erwachsene abgestimmt und perfekt, um dem Schul- und Alltagsstress für die ein oder andere Stunde zu entkommen.
 Dazu bieten wir an: Kutschenfahrten, Kamel-Kennenlern-Stunden - Wissenswertes über Kamele erfahren, Kamelspaziergänge, Lama- Eseltouren, Glühweinwanderungen mit Kamelen, Lamas oder Eseln. Wald-Zwitscherkastentouren, Kindergeburtstage mit Kamelen und Eseln. Wald-Kindergeburtstage mit Eseln. Schulklassen grünes Klassenzimmer, Schullandheime mit Übernachtung im Strohstadel, Kindergartenbesuche, Betriebsausflüge und Wanderziel „Kamelhof“.
 
-Wir freuen uns auf Sie! Das Team der Kamele in Weil im Schönbuch]]></desc>
+Wir freuen uns auf Sie! Das Team der Kamele in Weil im Schönbuch</desc>
         <sym>waypointFlagComb</sym>
         <extensions>
           <oa:mapZoom>16</oa:mapZoom>
@@ -1417,7 +1406,7 @@ Wir freuen uns auf Sie! Das Team der Kamele in Weil im Schönbuch]]></desc>
       <trkpt lat="48.625341" lon="9.077554">
         <ele>466.8</ele>
         <name>Regioautomat – Die Käsmacher</name>
-        <desc><![CDATA[http://www.die-kaesmacher.de
+        <desc>http://www.die-kaesmacher.de
 
 Bewusste Ernährung ist ein wichtiger Teil Ihres Lebensstils?
 Wir, die Käsmacher aus Weil im Schönbuch, leisten mit unseren, nach Bioland-Richtlinien erzeugten Produkten, dazu gerne unseren Beitrag.
@@ -1425,7 +1414,7 @@ Als Biolandhof haben wir es uns zur Aufgabe gemacht, in allen Betriebszweigen au
 Schwerpunkt unseres Betriebs ist seit den 80er Jahren die Ziegenhaltung mit angeschlossener Hofkäserei.
 Die Fütterung von ausschließlich selbst erzeugtem Futter, sowie freier Auslauf und Weidenhaltung unserer Ziegen, sind die Voraussetzung für leckeren Ziegenkäse.
 Lassen Sie sich von Geschmack und Qualität unserer Produkte überzeugen, die Käsmacher freuen sich über Ihren Besuch.   
-]]></desc>
+</desc>
         <sym>waypointFlagComb</sym>
         <extensions>
           <oa:mapZoom>17</oa:mapZoom>
@@ -1591,7 +1580,7 @@ Lassen Sie sich von Geschmack und Qualität unserer Produkte überzeugen, die K�
       <trkpt lat="48.62281" lon="9.069023">
         <ele>479.1</ele>
         <name>Schönbuchimkerei</name>
-        <desc><![CDATA[https://schoenbuchimkerei-loeffler.de
+        <desc>https://schoenbuchimkerei-loeffler.de
 
 Wandertour Faszination Honigbienen in der Natur
 
@@ -1602,7 +1591,7 @@ Bitte beachten:
 -    Je nach warmer Witterung, genügend Getränke mitführen.
 -    Es besteht die Möglichkeit, am Ende der Veranstaltung einzukehren.
 Wir freuen uns auf Ihren Besuch
-]]></desc>
+</desc>
         <sym>waypointFlagComb</sym>
         <extensions>
           <oa:mapZoom>17</oa:mapZoom>

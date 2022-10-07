@@ -1,20 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gpx version="1.1" creator="outdooractive - http://www.outdooractive.com" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1">
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
   <metadata>
-    <name>MICHELS WellnessHotel:  Drei-Maare-Tour nach Daun und zurück</name>
-    <author>
-      <name>Hubert Drayer - Michels Wohlfühlhotel &amp; Restaurant</name>
-    </author>
-    <link href="https://www.outdooractive.com/r/23154791"/>
-    <time>2021-09-29T22:01:57.813</time>
-    <extensions>
-      <oa:oaCategory>hikingTourTrail</oa:oaCategory>
-    </extensions>
+    <name>Drei Maare Tour Daun</name>
   </metadata>
   <trk>
-    <name>MICHELS WellnessHotel:  Drei-Maare-Tour nach Daun und zurück</name>
-    <desc>Eine wunderschöne Tour entlang den &quot;Augen der Eifel&quot; (unsere schönsten Maare) nach Daun und über den Mosel-Maare-Radweg wieder zurück nach Schalkenmehren. </desc>
-    <type>hikingTourTrail</type>
     <trkseg>
       <trkpt lat="50.165225" lon="6.861305">
         <ele>422.3</ele>
