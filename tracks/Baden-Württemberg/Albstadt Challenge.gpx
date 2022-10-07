@@ -1,12 +1,8 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Garmin Desktop App" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
   <metadata>
-    <link href="http://www.garmin.com" />
-    <time>2017-10-23T20:51:42Z</time>
-    <bounds minlat="48.1941343" minlon="8.9173894" maxlat="48.3125325" maxlon="9.0543323" />
   </metadata>
   <trk>
-    <name>2017-09-02 17:24:00</name>
     <trkseg>
       <trkpt lat="48.2535961" lon="8.9546436">
         <ele>780.73</ele>
