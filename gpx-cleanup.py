@@ -27,5 +27,4 @@ for dirname in os.listdir("tracks"):
         fh = open(f, 'w')
         fh.write(gpx.to_xml())
         fh.close()
-        exit(0)
 
