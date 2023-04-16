@@ -57,16 +57,20 @@ markers.push(marker);
 
 
 def get_track(f):
-    fh = open(f, 'r')
-    gpx = gpxpy.parse(fh)
-    ret = {}
-    ret['points'] = []
-    ret['length'] = gpx.length_2d()
-    for track in gpx.tracks:
-        for segment in track.segments:
-            for point in segment.points:
-                ret['points'].append([point.latitude, point.longitude])
-    fh.close()
+    try:
+        fh = open(f, 'r')
+        gpx = gpxpy.parse(fh)
+        gpx.simplify()
+        ret = {}
+        ret['points'] = []
+        ret['length'] = gpx.length_2d()
+        for track in gpx.tracks:
+            for segment in track.segments:
+                for point in segment.points:
+                    ret['points'].append([point.latitude, point.longitude])
+        fh.close()
+    except:
+        print(f"Error parsing {f}")
     return ret
 
 
@@ -88,9 +92,10 @@ for dirname in os.listdir("tracks"):
         else:
             color = "blue"
         for filename in os.listdir(full_dirname):
-            f = os.path.join(full_dirname, filename)
-            track = get_track(f)
-            write_track(fh, track, color, filename, f)
+            if filename.find(".gpx") >= 0:
+                f = os.path.join(full_dirname, filename)
+                track = get_track(f)
+                write_track(fh, track, color, filename, f)
 
 fh.close()
 
