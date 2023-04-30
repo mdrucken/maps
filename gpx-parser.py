@@ -71,6 +71,7 @@ def get_track(f):
         fh.close()
     except:
         print(f"Error parsing {f}")
+        ret = {}
     return ret
 
 
