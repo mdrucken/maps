@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-  <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
   <metadata>
     <name>Moselsteig 11</name>
   </metadata>
@@ -7,10 +7,6 @@
     <trkseg>
       <trkpt lat="49.915597" lon="7.075956">
         <ele>111.26517</ele>
-        <name>49.915597,7.075956</name>
-        <extensions>
-          <oa:mapZoom>12</oa:mapZoom>
-        </extensions>
       </trkpt>
       <trkpt lat="49.915605" lon="7.076692">
         <ele>113.99688</ele>
@@ -35,10 +31,6 @@
       </trkpt>
       <trkpt lat="49.916077" lon="7.081132">
         <ele>148.33491</ele>
-        <name>200608_Etappe11/200608_Etappe11/&lt;html xmlns:fo="http://www.w3.or</name>
-        <extensions>
-          <oa:mapZoom>12</oa:mapZoom>
-        </extensions>
       </trkpt>
       <trkpt lat="49.916267" lon="7.082027">
         <ele>158.63856</ele>
@@ -48,10 +40,6 @@
       </trkpt>
       <trkpt lat="49.916673" lon="7.083172">
         <ele>173.27646</ele>
-        <name>200608_Etappe11/200608_Etappe11/&lt;html xmlns:fo="http://www.w3.or</name>
-        <extensions>
-          <oa:mapZoom>12</oa:mapZoom>
-        </extensions>
       </trkpt>
       <trkpt lat="49.916127" lon="7.082463">
         <ele>175.83233</ele>
@@ -106,10 +94,6 @@
       </trkpt>
       <trkpt lat="49.916312" lon="7.092387">
         <ele>301.83967</ele>
-        <name>200608_Etappe11/200608_Etappe11/&lt;html xmlns:fo="http://www.w3.or</name>
-        <extensions>
-          <oa:mapZoom>12</oa:mapZoom>
-        </extensions>
       </trkpt>
       <trkpt lat="49.916363" lon="7.092417">
         <ele>302.69357</ele>
@@ -188,20 +172,12 @@
       </trkpt>
       <trkpt lat="49.922176" lon="7.083357">
         <ele>380.50719</ele>
-        <name>200608_Etappe11/200608_Etappe11/&lt;html xmlns:fo="http://www.w3.or</name>
-        <extensions>
-          <oa:mapZoom>12</oa:mapZoom>
-        </extensions>
       </trkpt>
       <trkpt lat="49.922192" lon="7.082404">
         <ele>379.86806</ele>
       </trkpt>
       <trkpt lat="49.922192" lon="7.082404">
         <ele>379.86806</ele>
-        <name>200608_Etappe11/200608_Etappe11/&lt;html xmlns:fo="http://www.w3.or</name>
-        <extensions>
-          <oa:mapZoom>12</oa:mapZoom>
-        </extensions>
       </trkpt>
       <trkpt lat="49.922425" lon="7.082992">
         <ele>388.43743</ele>
@@ -247,10 +223,6 @@
       </trkpt>
       <trkpt lat="49.928389" lon="7.081317">
         <ele>375.15516</ele>
-        <name>200608_Etappe11/200608_Etappe11/&lt;html xmlns:fo="http://www.w3.or</name>
-        <extensions>
-          <oa:mapZoom>12</oa:mapZoom>
-        </extensions>
       </trkpt>
       <trkpt lat="49.928565" lon="7.081864">
         <ele>368.08782</ele>
@@ -284,10 +256,6 @@
       </trkpt>
       <trkpt lat="49.930191" lon="7.083237">
         <ele>353.62331</ele>
-        <name>200608_Etappe11/200608_Etappe11/WVneu</name>
-        <extensions>
-          <oa:mapZoom>12</oa:mapZoom>
-        </extensions>
       </trkpt>
       <trkpt lat="49.930515" lon="7.08381">
         <ele>356.11585</ele>
@@ -300,10 +268,6 @@
       </trkpt>
       <trkpt lat="49.931119" lon="7.082893">
         <ele>337.57616</ele>
-        <name>200608_Etappe11/200608_Etappe11/&lt;html xmlns:fo="http://www.w3.or</name>
-        <extensions>
-          <oa:mapZoom>12</oa:mapZoom>
-        </extensions>
       </trkpt>
       <trkpt lat="49.930995" lon="7.082075">
         <ele>328.76739</ele>
@@ -331,10 +295,6 @@
       </trkpt>
       <trkpt lat="49.931683" lon="7.078861">
         <ele>321.34216</ele>
-        <name>200608_Etappe11/200608_Etappe11/&lt;html xmlns:fo="http://www.w3.or</name>
-        <extensions>
-          <oa:mapZoom>12</oa:mapZoom>
-        </extensions>
       </trkpt>
       <trkpt lat="49.931784" lon="7.078802">
         <ele>324.65913</ele>
@@ -434,10 +394,6 @@
       </trkpt>
       <trkpt lat="49.93994" lon="7.067662">
         <ele>337.67786</ele>
-        <name>200608_Etappe11/200608_Etappe11/&lt;html xmlns:fo="http://www.w3.or</name>
-        <extensions>
-          <oa:mapZoom>12</oa:mapZoom>
-        </extensions>
       </trkpt>
       <trkpt lat="49.940072" lon="7.067571">
         <ele>339.42253</ele>
@@ -453,10 +409,6 @@
       </trkpt>
       <trkpt lat="49.941276" lon="7.066097">
         <ele>347.70779</ele>
-        <name>200608_Etappe11/200608_Etappe11/&lt;html xmlns:fo="http://www.w3.or</name>
-        <extensions>
-          <oa:mapZoom>12</oa:mapZoom>
-        </extensions>
       </trkpt>
       <trkpt lat="49.941358" lon="7.065903">
         <ele>345.71891</ele>
@@ -478,10 +430,6 @@
       </trkpt>
       <trkpt lat="49.942407" lon="7.061448">
         <ele>325.24768</ele>
-        <name>200608_Etappe11/200608_Etappe11/&lt;html xmlns:fo="http://www.w3.or</name>
-        <extensions>
-          <oa:mapZoom>12</oa:mapZoom>
-        </extensions>
       </trkpt>
       <trkpt lat="49.94245" lon="7.061221">
         <ele>324.6643</ele>
@@ -611,10 +559,6 @@
       </trkpt>
       <trkpt lat="49.95089" lon="7.037186">
         <ele>319.91914</ele>
-        <name>200608_Etappe11/200608_Etappe11/&lt;html xmlns:fo="http://www.w3.or</name>
-        <extensions>
-          <oa:mapZoom>12</oa:mapZoom>
-        </extensions>
       </trkpt>
       <trkpt lat="49.951155" lon="7.036372">
         <ele>304.01459</ele>
@@ -627,10 +571,6 @@
       </trkpt>
       <trkpt lat="49.951845" lon="7.034425">
         <ele>299.48896</ele>
-        <name>200608_Etappe11/200608_Etappe11/WVneu</name>
-        <extensions>
-          <oa:mapZoom>12</oa:mapZoom>
-        </extensions>
       </trkpt>
       <trkpt lat="49.951857" lon="7.034097">
         <ele>294.28512</ele>
@@ -667,10 +607,6 @@
       </trkpt>
       <trkpt lat="49.952768" lon="7.02849">
         <ele>279.25641</ele>
-        <name>200608_Etappe11/200608_Etappe11/&lt;html xmlns:fo="http://www.w3.or</name>
-        <extensions>
-          <oa:mapZoom>12</oa:mapZoom>
-        </extensions>
       </trkpt>
       <trkpt lat="49.952921" lon="7.027702">
         <ele>273.14364</ele>
@@ -698,10 +634,6 @@
       </trkpt>
       <trkpt lat="49.954489" lon="7.028076">
         <ele>251.11878</ele>
-        <name>200608_Etappe11/200608_Etappe11/WVneu</name>
-        <extensions>
-          <oa:mapZoom>12</oa:mapZoom>
-        </extensions>
       </trkpt>
       <trkpt lat="49.954439" lon="7.027353">
         <ele>239.03896</ele>
@@ -714,10 +646,6 @@
       </trkpt>
       <trkpt lat="49.953862" lon="7.0244">
         <ele>176.38131</ele>
-        <name>200608_Etappe11/200608_Etappe11/&lt;html xmlns:fo="http://www.w3.or</name>
-        <extensions>
-          <oa:mapZoom>12</oa:mapZoom>
-        </extensions>
       </trkpt>
       <trkpt lat="49.953616" lon="7.024009">
         <ele>175.35464</ele>
@@ -733,10 +661,6 @@
       </trkpt>
       <trkpt lat="49.9533" lon="7.023214">
         <ele>157.52072</ele>
-        <name>200608_Etappe11/200608_Etappe11/&lt;html xmlns:fo="http://www.w3.or</name>
-        <extensions>
-          <oa:mapZoom>12</oa:mapZoom>
-        </extensions>
       </trkpt>
       <trkpt lat="49.95377" lon="7.023427">
         <ele>152.76258</ele>
@@ -752,10 +676,6 @@
       </trkpt>
       <trkpt lat="49.954005" lon="7.022921">
         <ele>158.48897</ele>
-        <name>200608_Etappe11/200608_Etappe11/&lt;html xmlns:fo="http://www.w3.or</name>
-        <extensions>
-          <oa:mapZoom>12</oa:mapZoom>
-        </extensions>
       </trkpt>
       <trkpt lat="49.95379" lon="7.022052">
         <ele>163.04821</ele>
@@ -798,30 +718,18 @@
       </trkpt>
       <trkpt lat="49.956798" lon="7.012271">
         <ele>148.78851</ele>
-        <name>200608_Etappe11/200608_Etappe11/&lt;html xmlns:fo="http://www.w3.or</name>
-        <extensions>
-          <oa:mapZoom>12</oa:mapZoom>
-        </extensions>
       </trkpt>
       <trkpt lat="49.957324" lon="7.011663">
         <ele>147.11915</ele>
       </trkpt>
       <trkpt lat="49.957324" lon="7.011663">
         <ele>147.11915</ele>
-        <name>200608_Etappe11/200608_Etappe11/&lt;html xmlns:fo="http://www.w3.or</name>
-        <extensions>
-          <oa:mapZoom>12</oa:mapZoom>
-        </extensions>
       </trkpt>
       <trkpt lat="49.956989" lon="7.010883">
         <ele>136.3158</ele>
       </trkpt>
       <trkpt lat="49.956989" lon="7.010883">
         <ele>136.3158</ele>
-        <name>200608_Etappe11/200608_Etappe11/&lt;html xmlns:fo="http://www.w3.or</name>
-        <extensions>
-          <oa:mapZoom>12</oa:mapZoom>
-        </extensions>
       </trkpt>
       <trkpt lat="49.956309" lon="7.009558">
         <ele>121.18269</ele>
@@ -834,10 +742,6 @@
       </trkpt>
       <trkpt lat="49.953622" lon="7.006112">
         <ele>107.42056</ele>
-        <name>200608_Etappe11/200608_Etappe11/&lt;html xmlns:fo="http://www.w3.or</name>
-        <extensions>
-          <oa:mapZoom>12</oa:mapZoom>
-        </extensions>
       </trkpt>
       <trkpt lat="49.953003" lon="7.005406">
         <ele>116.55782</ele>
@@ -856,10 +760,6 @@
       </trkpt>
       <trkpt lat="49.953368" lon="7.004026">
         <ele>118.12676</ele>
-        <name>200608_Etappe11/200608_Etappe11/&lt;html xmlns:fo="http://www.w3.or</name>
-        <extensions>
-          <oa:mapZoom>12</oa:mapZoom>
-        </extensions>
       </trkpt>
       <trkpt lat="49.95352" lon="7.003913">
         <ele>114.79959</ele>
@@ -872,10 +772,6 @@
       </trkpt>
       <trkpt lat="49.95432" lon="7.002004">
         <ele>108.31185</ele>
-        <name>200608_Etappe11/200608_Etappe11/&lt;html xmlns:fo="http://www.w3.or</name>
-        <extensions>
-          <oa:mapZoom>12</oa:mapZoom>
-        </extensions>
       </trkpt>
       <trkpt lat="49.954245" lon="7.00124">
         <ele>114.0811</ele>
@@ -900,10 +796,6 @@
       </trkpt>
       <trkpt lat="49.955189" lon="6.999493">
         <ele>145.90562</ele>
-        <name>200608_Etappe11/200608_Etappe11/&lt;html xmlns:fo="http://www.w3.or</name>
-        <extensions>
-          <oa:mapZoom>12</oa:mapZoom>
-        </extensions>
       </trkpt>
       <trkpt lat="49.955938" lon="6.99826">
         <ele>156.5581</ele>
@@ -919,10 +811,6 @@
       </trkpt>
       <trkpt lat="49.956992" lon="6.997537">
         <ele>163.63231</ele>
-        <name>200608_Etappe11/200608_Etappe11/&lt;html xmlns:fo="http://www.w3.or</name>
-        <extensions>
-          <oa:mapZoom>12</oa:mapZoom>
-        </extensions>
       </trkpt>
       <trkpt lat="49.957332" lon="6.997437">
         <ele>160.14352</ele>
@@ -941,10 +829,6 @@
       </trkpt>
       <trkpt lat="49.958654" lon="6.996534">
         <ele>170.11251</ele>
-        <name>200608_Etappe11/200608_Etappe11/&lt;html xmlns:fo="http://www.w3.or</name>
-        <extensions>
-          <oa:mapZoom>12</oa:mapZoom>
-        </extensions>
       </trkpt>
       <trkpt lat="49.958922" lon="6.996597">
         <ele>170.13062</ele>
@@ -981,10 +865,6 @@
       </trkpt>
       <trkpt lat="49.964493" lon="6.995824">
         <ele>165.87792</ele>
-        <name>200608_Etappe11/200608_Etappe11/&lt;html xmlns:fo="http://www.w3.or</name>
-        <extensions>
-          <oa:mapZoom>12</oa:mapZoom>
-        </extensions>
       </trkpt>
       <trkpt lat="49.964506" lon="6.995727">
         <ele>167.55969</ele>
@@ -1012,20 +892,12 @@
       </trkpt>
       <trkpt lat="49.965665" lon="6.993753">
         <ele>210.54931</ele>
-        <name>200608_Etappe11/200608_Etappe11/&lt;html xmlns:fo="http://www.w3.or</name>
-        <extensions>
-          <oa:mapZoom>12</oa:mapZoom>
-        </extensions>
       </trkpt>
       <trkpt lat="49.966091" lon="6.99364">
         <ele>218.29428</ele>
       </trkpt>
       <trkpt lat="49.966091" lon="6.99364">
         <ele>218.29428</ele>
-        <name>200608_Etappe11/200608_Etappe11/&lt;html xmlns:fo="http://www.w3.or</name>
-        <extensions>
-          <oa:mapZoom>12</oa:mapZoom>
-        </extensions>
       </trkpt>
       <trkpt lat="49.966531" lon="6.99355">
         <ele>227.20015</ele>
@@ -1044,10 +916,6 @@
       </trkpt>
       <trkpt lat="49.968294" lon="6.993105">
         <ele>262.28137</ele>
-        <name>200608_Etappe11/200608_Etappe11/&lt;html xmlns:fo="http://www.w3.or</name>
-        <extensions>
-          <oa:mapZoom>12</oa:mapZoom>
-        </extensions>
       </trkpt>
       <trkpt lat="49.968424" lon="6.993006">
         <ele>263.69909</ele>
@@ -1072,10 +940,6 @@
       </trkpt>
       <trkpt lat="49.969984" lon="6.991304">
         <ele>273.31383</ele>
-        <name>200608_Etappe11/200608_Etappe11/&lt;html xmlns:fo="http://www.w3.or</name>
-        <extensions>
-          <oa:mapZoom>12</oa:mapZoom>
-        </extensions>
       </trkpt>
       <trkpt lat="49.970163" lon="6.991352">
         <ele>271.67194</ele>
@@ -1130,10 +994,6 @@
       </trkpt>
       <trkpt lat="49.975203" lon="6.996184">
         <ele>243.8357</ele>
-        <name>200608_Etappe11/200608_Etappe11/&lt;html xmlns:fo="http://www.w3.or</name>
-        <extensions>
-          <oa:mapZoom>12</oa:mapZoom>
-        </extensions>
       </trkpt>
       <trkpt lat="49.97484" lon="6.996986">
         <ele>255.60581</ele>
@@ -1141,9 +1001,6 @@
       <trkpt lat="49.97484" lon="6.996986">
         <ele>255.60581</ele>
         <name>200608_Etappe11/200608_Etappe11/&lt;html xmlns:fo="http://www.w3.or</name>
-        <extensions>
-          <oa:mapZoom>12</oa:mapZoom>
-        </extensions>
       </trkpt>
       <trkpt lat="49.975933" lon="6.998456">
         <ele>254.88841</ele>
@@ -1171,10 +1028,6 @@
       </trkpt>
       <trkpt lat="49.979168" lon="6.997514">
         <ele>231.71228</ele>
-        <name>200608_Etappe11/200608_Etappe11/&lt;html xmlns:fo="http://www.w3.or</name>
-        <extensions>
-          <oa:mapZoom>12</oa:mapZoom>
-        </extensions>
       </trkpt>
       <trkpt lat="49.979219" lon="6.997576">
         <ele>230.72045</ele>
@@ -1190,10 +1043,6 @@
       </trkpt>
       <trkpt lat="49.978791" lon="6.999114">
         <ele>200.85954</ele>
-        <name>200608_Etappe11/200608_Etappe11/&lt;html xmlns:fo="http://www.w3.or</name>
-        <extensions>
-          <oa:mapZoom>12</oa:mapZoom>
-        </extensions>
       </trkpt>
       <trkpt lat="49.97874" lon="6.999497">
         <ele>196.30064</ele>
@@ -1206,10 +1055,6 @@
       </trkpt>
       <trkpt lat="49.978985" lon="7.000502">
         <ele>192.50866</ele>
-        <name>200608_Etappe11/200608_Etappe11/&lt;html xmlns:fo="http://www.w3.or</name>
-        <extensions>
-          <oa:mapZoom>12</oa:mapZoom>
-        </extensions>
       </trkpt>
       <trkpt lat="49.979335" lon="7.000804">
         <ele>181.77329</ele>
@@ -1234,10 +1079,6 @@
       </trkpt>
       <trkpt lat="49.98005" lon="7.001869">
         <ele>162.98051</ele>
-        <name>200608_Etappe11/200608_Etappe11/&lt;html xmlns:fo="http://www.w3.or</name>
-        <extensions>
-          <oa:mapZoom>12</oa:mapZoom>
-        </extensions>
       </trkpt>
       <trkpt lat="49.980437" lon="7.001323">
         <ele>176.81996</ele>
@@ -1265,10 +1106,6 @@
       </trkpt>
       <trkpt lat="49.980954" lon="7.00276">
         <ele>196.29045</ele>
-        <name>200608_Etappe11/200608_Etappe11/&lt;html xmlns:fo="http://www.w3.or</name>
-        <extensions>
-          <oa:mapZoom>12</oa:mapZoom>
-        </extensions>
       </trkpt>
       <trkpt lat="49.981027" lon="7.002875">
         <ele>195.28263</ele>
@@ -1281,10 +1118,6 @@
       </trkpt>
       <trkpt lat="49.981846" lon="7.002911">
         <ele>201.06392</ele>
-        <name>200608_Etappe11/200608_Etappe11/&lt;html xmlns:fo="http://www.w3.or</name>
-        <extensions>
-          <oa:mapZoom>12</oa:mapZoom>
-        </extensions>
       </trkpt>
     </trkseg>
   </trk>
