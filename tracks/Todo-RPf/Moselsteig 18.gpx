@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
   <metadata>
     <name>Moselsteig 18</name>
   </metadata>
@@ -7,10 +7,6 @@
     <trkseg>
       <trkpt lat="50.110587" lon="7.23864">
         <ele>85.94526</ele>
-        <name>etappe18/etappe18/&lt;html xmlns:fo="http://www.w3.org/1999/XSL/For</name>
-        <extensions>
-          <oa:mapZoom>13</oa:mapZoom>
-        </extensions>
       </trkpt>
       <trkpt lat="50.111044" lon="7.238882">
         <ele>84.39807</ele>
@@ -20,10 +16,6 @@
       </trkpt>
       <trkpt lat="50.111388" lon="7.239055">
         <ele>85.95258</ele>
-        <name>etappe18/etappe18/&lt;html xmlns:fo="http://www.w3.org/1999/XSL/For</name>
-        <extensions>
-          <oa:mapZoom>13</oa:mapZoom>
-        </extensions>
       </trkpt>
       <trkpt lat="50.111461" lon="7.239156">
         <ele>86.73761</ele>
@@ -150,10 +142,6 @@
       </trkpt>
       <trkpt lat="50.11969" lon="7.235989">
         <ele>180.68594</ele>
-        <name>etappe18/etappe18/&lt;html xmlns:fo="http://www.w3.org/1999/XSL/For</name>
-        <extensions>
-          <oa:mapZoom>13</oa:mapZoom>
-        </extensions>
       </trkpt>
       <trkpt lat="50.119632" lon="7.235629">
         <ele>175.8634</ele>
@@ -178,10 +166,6 @@
       </trkpt>
       <trkpt lat="50.120642" lon="7.235051">
         <ele>170.33105</ele>
-        <name>etappe18/etappe18/&lt;html xmlns:fo="http://www.w3.org/1999/XSL/For</name>
-        <extensions>
-          <oa:mapZoom>13</oa:mapZoom>
-        </extensions>
       </trkpt>
       <trkpt lat="50.120855" lon="7.234377">
         <ele>165.0254</ele>
@@ -215,10 +199,6 @@
       </trkpt>
       <trkpt lat="50.122501" lon="7.233332">
         <ele>131.33316</ele>
-        <name>etappe18/etappe18/&lt;html xmlns:fo="http://www.w3.org/1999/XSL/For</name>
-        <extensions>
-          <oa:mapZoom>13</oa:mapZoom>
-        </extensions>
       </trkpt>
       <trkpt lat="50.122642" lon="7.232943">
         <ele>128.24193</ele>
@@ -267,10 +247,6 @@
       </trkpt>
       <trkpt lat="50.126656" lon="7.228144">
         <ele>88.09377</ele>
-        <name>etappe18/etappe18/&lt;html xmlns:fo="http://www.w3.org/1999/XSL/For</name>
-        <extensions>
-          <oa:mapZoom>13</oa:mapZoom>
-        </extensions>
       </trkpt>
       <trkpt lat="50.126836" lon="7.228098">
         <ele>88.12427</ele>
@@ -280,10 +256,6 @@
       </trkpt>
       <trkpt lat="50.127026" lon="7.228058">
         <ele>88.18771</ele>
-        <name>etappe18/etappe18/&lt;html xmlns:fo="http://www.w3.org/1999/XSL/For</name>
-        <extensions>
-          <oa:mapZoom>13</oa:mapZoom>
-        </extensions>
       </trkpt>
       <trkpt lat="50.127053" lon="7.227957">
         <ele>87.8325</ele>
@@ -320,10 +292,6 @@
       </trkpt>
       <trkpt lat="50.132357" lon="7.229038">
         <ele>83.69821</ele>
-        <name>etappe18/etappe18/&lt;html xmlns:fo="http://www.w3.org/1999/XSL/For</name>
-        <extensions>
-          <oa:mapZoom>13</oa:mapZoom>
-        </extensions>
       </trkpt>
       <trkpt lat="50.132724" lon="7.229408">
         <ele>83.50186</ele>
@@ -336,20 +304,12 @@
       </trkpt>
       <trkpt lat="50.132855" lon="7.229777">
         <ele>86.11057</ele>
-        <name>etappe18/etappe18/&lt;html xmlns:fo="http://www.w3.org/1999/XSL/For</name>
-        <extensions>
-          <oa:mapZoom>13</oa:mapZoom>
-        </extensions>
       </trkpt>
       <trkpt lat="50.132504" lon="7.230225">
         <ele>88.65883</ele>
       </trkpt>
       <trkpt lat="50.132504" lon="7.230225">
         <ele>88.65883</ele>
-        <name>etappe18/etappe18/&lt;html xmlns:fo="http://www.w3.org/1999/XSL/For</name>
-        <extensions>
-          <oa:mapZoom>13</oa:mapZoom>
-        </extensions>
       </trkpt>
       <trkpt lat="50.132693" lon="7.230324">
         <ele>88.25709</ele>
@@ -377,10 +337,6 @@
       </trkpt>
       <trkpt lat="50.135763" lon="7.234728">
         <ele>84.64896</ele>
-        <name>etappe18/etappe18/&lt;html xmlns:fo="http://www.w3.org/1999/XSL/For</name>
-        <extensions>
-          <oa:mapZoom>13</oa:mapZoom>
-        </extensions>
       </trkpt>
       <trkpt lat="50.13559" lon="7.235069">
         <ele>87.85035</ele>
@@ -390,20 +346,12 @@
       </trkpt>
       <trkpt lat="50.135863" lon="7.235357">
         <ele>87.33139</ele>
-        <name>etappe18/etappe18/&lt;html xmlns:fo="http://www.w3.org/1999/XSL/For</name>
-        <extensions>
-          <oa:mapZoom>13</oa:mapZoom>
-        </extensions>
       </trkpt>
       <trkpt lat="50.135524" lon="7.23599">
         <ele>93.48534</ele>
       </trkpt>
       <trkpt lat="50.135524" lon="7.23599">
         <ele>93.48534</ele>
-        <name>etappe18/etappe18/&lt;html xmlns:fo="http://www.w3.org/1999/XSL/For</name>
-        <extensions>
-          <oa:mapZoom>13</oa:mapZoom>
-        </extensions>
       </trkpt>
       <trkpt lat="50.136294" lon="7.2368">
         <ele>97.35324</ele>
@@ -431,10 +379,6 @@
       </trkpt>
       <trkpt lat="50.137747" lon="7.237798">
         <ele>98.9886</ele>
-        <name>etappe18/etappe18/&lt;html xmlns:fo="http://www.w3.org/1999/XSL/For</name>
-        <extensions>
-          <oa:mapZoom>13</oa:mapZoom>
-        </extensions>
       </trkpt>
       <trkpt lat="50.137909" lon="7.237807">
         <ele>99.75439</ele>
@@ -444,10 +388,6 @@
       </trkpt>
       <trkpt lat="50.138661" lon="7.237839">
         <ele>98.25444</ele>
-        <name>etappe18/etappe18/&lt;html xmlns:fo="http://www.w3.org/1999/XSL/For</name>
-        <extensions>
-          <oa:mapZoom>13</oa:mapZoom>
-        </extensions>
       </trkpt>
       <trkpt lat="50.138698" lon="7.238025">
         <ele>101.72122</ele>
@@ -556,10 +496,6 @@
       </trkpt>
       <trkpt lat="50.14673" lon="7.239382">
         <ele>294.13508</ele>
-        <name>etappe18/etappe18/&lt;html xmlns:fo="http://www.w3.org/1999/XSL/For</name>
-        <extensions>
-          <oa:mapZoom>13</oa:mapZoom>
-        </extensions>
       </trkpt>
       <trkpt lat="50.147012" lon="7.23983">
         <ele>296.7993</ele>
@@ -569,10 +505,6 @@
       </trkpt>
       <trkpt lat="50.147315" lon="7.24038">
         <ele>299.52213</ele>
-        <name>etappe18/etappe18/&lt;html xmlns:fo="http://www.w3.org/1999/XSL/For</name>
-        <extensions>
-          <oa:mapZoom>13</oa:mapZoom>
-        </extensions>
       </trkpt>
       <trkpt lat="50.14891" lon="7.238668">
         <ele>302.70541</ele>
@@ -585,20 +517,12 @@
       </trkpt>
       <trkpt lat="50.14948" lon="7.238203">
         <ele>303.48644</ele>
-        <name>etappe18/etappe18/&lt;html xmlns:fo="http://www.w3.org/1999/XSL/For</name>
-        <extensions>
-          <oa:mapZoom>13</oa:mapZoom>
-        </extensions>
       </trkpt>
       <trkpt lat="50.150119" lon="7.238383">
         <ele>307.17574</ele>
       </trkpt>
       <trkpt lat="50.150119" lon="7.238383">
         <ele>307.17574</ele>
-        <name>etappe18/etappe18/&lt;html xmlns:fo="http://www.w3.org/1999/XSL/For</name>
-        <extensions>
-          <oa:mapZoom>13</oa:mapZoom>
-        </extensions>
       </trkpt>
       <trkpt lat="50.150272" lon="7.237938">
         <ele>307.08498</ele>
@@ -629,10 +553,6 @@
       </trkpt>
       <trkpt lat="50.150079" lon="7.230667">
         <ele>309.96648</ele>
-        <name>etappe18/etappe18/&lt;html xmlns:fo="http://www.w3.org/1999/XSL/For</name>
-        <extensions>
-          <oa:mapZoom>13</oa:mapZoom>
-        </extensions>
       </trkpt>
       <trkpt lat="50.149974" lon="7.230393">
         <ele>309.2334</ele>
@@ -681,10 +601,6 @@
       </trkpt>
       <trkpt lat="50.149929" lon="7.223538">
         <ele>306.39459</ele>
-        <name>etappe18/etappe18/&lt;html xmlns:fo="http://www.w3.org/1999/XSL/For</name>
-        <extensions>
-          <oa:mapZoom>13</oa:mapZoom>
-        </extensions>
       </trkpt>
       <trkpt lat="50.150116" lon="7.223322">
         <ele>305.19593</ele>
@@ -697,10 +613,6 @@
       </trkpt>
       <trkpt lat="50.149828" lon="7.2224">
         <ele>304.49367</ele>
-        <name>etappe18/etappe18/&lt;html xmlns:fo="http://www.w3.org/1999/XSL/For</name>
-        <extensions>
-          <oa:mapZoom>13</oa:mapZoom>
-        </extensions>
       </trkpt>
       <trkpt lat="50.149815" lon="7.222178">
         <ele>304.50821</ele>
@@ -710,10 +622,6 @@
       </trkpt>
       <trkpt lat="50.149485" lon="7.221575">
         <ele>303.09694</ele>
-        <name>etappe18/etappe18/&lt;html xmlns:fo="http://www.w3.org/1999/XSL/For</name>
-        <extensions>
-          <oa:mapZoom>13</oa:mapZoom>
-        </extensions>
       </trkpt>
       <trkpt lat="50.149387" lon="7.221704">
         <ele>301.56152</ele>
@@ -726,10 +634,6 @@
       </trkpt>
       <trkpt lat="50.148221" lon="7.218948">
         <ele>289.00975</ele>
-        <name>etappe18/etappe18/&lt;html xmlns:fo="http://www.w3.org/1999/XSL/For</name>
-        <extensions>
-          <oa:mapZoom>13</oa:mapZoom>
-        </extensions>
       </trkpt>
       <trkpt lat="50.148028" lon="7.218473">
         <ele>289.35778</ele>
@@ -892,10 +796,6 @@
       </trkpt>
       <trkpt lat="50.143601" lon="7.194367">
         <ele>187.90921</ele>
-        <name>etappe18/etappe18/&lt;html xmlns:fo="http://www.w3.org/1999/XSL/For</name>
-        <extensions>
-          <oa:mapZoom>13</oa:mapZoom>
-        </extensions>
       </trkpt>
       <trkpt lat="50.143746" lon="7.193954">
         <ele>194.82091</ele>
@@ -1028,10 +928,6 @@
       </trkpt>
       <trkpt lat="50.140561" lon="7.175011">
         <ele>89.41086</ele>
-        <name>etappe18/etappe18/&lt;html xmlns:fo="http://www.w3.org/1999/XSL/For</name>
-        <extensions>
-          <oa:mapZoom>13</oa:mapZoom>
-        </extensions>
       </trkpt>
       <trkpt lat="50.140756" lon="7.174707">
         <ele>91.5742</ele>
@@ -1050,10 +946,6 @@
       </trkpt>
       <trkpt lat="50.143656" lon="7.173576">
         <ele>120.09346</ele>
-        <name>etappe18/etappe18/&lt;html xmlns:fo="http://www.w3.org/1999/XSL/For</name>
-        <extensions>
-          <oa:mapZoom>13</oa:mapZoom>
-        </extensions>
       </trkpt>
       <trkpt lat="50.143955" lon="7.173666">
         <ele>119.10122</ele>
@@ -1063,10 +955,6 @@
       </trkpt>
       <trkpt lat="50.144135" lon="7.173752">
         <ele>123.68052</ele>
-        <name>etappe18/etappe18/&lt;html xmlns:fo="http://www.w3.org/1999/XSL/For</name>
-        <extensions>
-          <oa:mapZoom>13</oa:mapZoom>
-        </extensions>
       </trkpt>
       <trkpt lat="50.14457" lon="7.173013">
         <ele>126.54793</ele>
@@ -1079,20 +967,12 @@
       </trkpt>
       <trkpt lat="50.145822" lon="7.172085">
         <ele>127.76641</ele>
-        <name>etappe18/etappe18/&lt;html xmlns:fo="http://www.w3.org/1999/XSL/For</name>
-        <extensions>
-          <oa:mapZoom>13</oa:mapZoom>
-        </extensions>
       </trkpt>
       <trkpt lat="50.145456" lon="7.170776">
         <ele>94.18685</ele>
       </trkpt>
       <trkpt lat="50.145456" lon="7.170776">
         <ele>94.18685</ele>
-        <name>etappe18/etappe18/&lt;html xmlns:fo="http://www.w3.org/1999/XSL/For</name>
-        <extensions>
-          <oa:mapZoom>13</oa:mapZoom>
-        </extensions>
       </trkpt>
       <trkpt lat="50.146645" lon="7.170305">
         <ele>92.402</ele>
@@ -1102,10 +982,6 @@
       </trkpt>
       <trkpt lat="50.147307" lon="7.165407">
         <ele>83.91218</ele>
-        <name>50.147307,7.165407</name>
-        <extensions>
-          <oa:mapZoom>13</oa:mapZoom>
-        </extensions>
       </trkpt>
     </trkseg>
   </trk>
