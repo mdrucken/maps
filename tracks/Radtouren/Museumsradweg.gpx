@@ -2,8 +2,7 @@
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
   <metadata>
     <name>Museumsradweg</name>
-    <bounds minlat="48.618186" maxlat="48.755349" minlon="8.871535" maxlon="9.419579">
-    </bounds>
+    <bounds minlat="48.618186" maxlat="48.755349" minlon="8.871535" maxlon="9.419579" />
   </metadata>
   <wpt lat="48.650876" lon="9.101443">
     <ele>377.200073</ele>
