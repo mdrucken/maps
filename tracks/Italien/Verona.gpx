@@ -8,9 +8,6 @@
       <trkpt lat="45.432424" lon="11.00323">
         <ele>56.83</ele>
         <name>Via Campo Marzo 5, 37133 Verona Veneto</name>
-        <extensions>
-          <oa:address>[street:Via Campo Marzo, country:Italy, zipcode:37133, town:Verona, housenumber:5, subAdministrativeArea:Province of Verona, administrativeArea:Veneto]</oa:address>
-        </extensions>
       </trkpt>
       <trkpt lat="45.432436" lon="11.003183">
         <ele>56.8</ele>
@@ -258,10 +255,6 @@
       <trkpt lat="45.43828" lon="10.994079">
         <ele>59.0</ele>
         <name>Via Leoncino 61, 37121 Verona Veneto</name>
-        <extensions>
-          <oa:locType>routingNode</oa:locType>
-          <oa:address>[street:Via Leoncino, country:Italy, administrativeArea:Veneto, zipcode:37121, town:Verona, subAdministrativeArea:Province of Verona, housenumber:61]</oa:address>
-        </extensions>
       </trkpt>
       <trkpt lat="45.438313" lon="10.993796">
         <ele>58.7</ele>
@@ -389,10 +382,6 @@
       <trkpt lat="45.439596" lon="10.987452">
         <ele>62.7</ele>
         <name>Corso Castelvecchio 4, 37121 Verona Veneto</name>
-        <extensions>
-          <oa:locType>routingNode</oa:locType>
-          <oa:address>[street:Corso Castelvecchio, country:Italy, administrativeArea:Veneto, town:Verona, housenumber:4, zipcode:37121, subAdministrativeArea:Province of Verona]</oa:address>
-        </extensions>
       </trkpt>
       <trkpt lat="45.439604" lon="10.987448">
         <ele>62.7</ele>
@@ -418,10 +407,6 @@
       <trkpt lat="45.440897" lon="10.987195">
         <ele>55.3</ele>
         <name>Ponte Scaligero, 37121 Verona Veneto</name>
-        <extensions>
-          <oa:locType>routingNode</oa:locType>
-          <oa:address>[administrativeArea:Veneto, town:Verona, street:Ponte Scaligero, subAdministrativeArea:Province of Verona, zipcode:37121, country:Italy]</oa:address>
-        </extensions>
       </trkpt>
       <trkpt lat="45.441031" lon="10.987175">
         <ele>54.7</ele>
@@ -627,10 +612,6 @@
       <trkpt lat="45.442391" lon="10.978789">
         <ele>65.7</ele>
         <name>Piazza San Zeno 2A, 37123 Verona Veneto</name>
-        <extensions>
-          <oa:locType>routingNode</oa:locType>
-          <oa:address>[street:Piazza San Zeno, country:Italy, administrativeArea:Veneto, zipcode:37123, housenumber:2A, subAdministrativeArea:Province of Verona, town:Verona]</oa:address>
-        </extensions>
       </trkpt>
       <trkpt lat="45.442315" lon="10.978843">
         <ele>66.1</ele>
@@ -893,10 +874,6 @@
       <trkpt lat="45.44023" lon="10.994349">
         <ele>67.3</ele>
         <name>Via Mazzini 65, 37121 Verona Veneto</name>
-        <extensions>
-          <oa:locType>routingNode</oa:locType>
-          <oa:address>[street:Via Mazzini, country:Italy, zipcode:37121, administrativeArea:Veneto, housenumber:65, subAdministrativeArea:Province of Verona, town:Verona]</oa:address>
-        </extensions>
       </trkpt>
       <trkpt lat="45.440308" lon="10.994442">
         <ele>67.4</ele>
@@ -946,10 +923,6 @@
       <trkpt lat="45.442273" lon="10.99786">
         <ele>67.1</ele>
         <name>Via Cappello 6, 37121 Verona Veneto</name>
-        <extensions>
-          <oa:locType>routingNode</oa:locType>
-          <oa:address>[street:Via Cappello, country:Italy, town:Verona, administrativeArea:Veneto, housenumber:6, zipcode:37121, subAdministrativeArea:Province of Verona]</oa:address>
-        </extensions>
       </trkpt>
       <trkpt lat="45.442281" lon="10.99785">
         <ele>67.1</ele>
@@ -972,10 +945,6 @@
       <trkpt lat="45.442962" lon="10.997357">
         <ele>67.2</ele>
         <name>Via della Costa 2, 37121 Verona Veneto</name>
-        <extensions>
-          <oa:locType>routingNode</oa:locType>
-          <oa:address>[street:Via della Costa, country:Italy, zipcode:37121, town:Verona, administrativeArea:Veneto, subAdministrativeArea:Province of Verona, housenumber:2]</oa:address>
-        </extensions>
       </trkpt>
       <trkpt lat="45.442999" lon="10.997452">
         <ele>66.8</ele>
@@ -1001,10 +970,6 @@
       <trkpt lat="45.443191" lon="10.997828">
         <ele>67.1</ele>
         <name>Via della Costa 7, 37121 Verona Veneto</name>
-        <extensions>
-          <oa:locType>routingNode</oa:locType>
-          <oa:address>[street:Via della Costa, country:Italy, zipcode:37121, administrativeArea:Veneto, town:Verona, subAdministrativeArea:Province of Verona, housenumber:7]</oa:address>
-        </extensions>
       </trkpt>
       <trkpt lat="45.443183" lon="10.997837">
         <ele>67.1</ele>
@@ -1030,10 +995,6 @@
       <trkpt lat="45.443717" lon="10.998916">
         <ele>65.3</ele>
         <name>Via Santa Maria Antica 1, 37121 Verona Veneto</name>
-        <extensions>
-          <oa:locType>routingNode</oa:locType>
-          <oa:address>[street:Via Santa Maria Antica, country:Italy, town:Verona, administrativeArea:Veneto, housenumber:1, subAdministrativeArea:Province of Verona, zipcode:37121]</oa:address>
-        </extensions>
       </trkpt>
       <trkpt lat="45.443771" lon="10.999022">
         <ele>64.7</ele>
@@ -1077,10 +1038,6 @@
       <trkpt lat="45.445508" lon="10.99865">
         <ele>65.5</ele>
         <name>Via Abramo Massalongo 7, 37121 Verona Veneto</name>
-        <extensions>
-          <oa:locType>routingNode</oa:locType>
-          <oa:address>[street:Via Abramo Massalongo, country:Italy, administrativeArea:Veneto, town:Verona, zipcode:37121, subAdministrativeArea:Province of Verona, housenumber:7]</oa:address>
-        </extensions>
       </trkpt>
       <trkpt lat="45.445528" lon="10.998631">
         <ele>65.5</ele>
@@ -1108,9 +1065,6 @@
       </trkpt>
       <trkpt lat="45.447005" lon="10.997131">
         <ele>64.1</ele>
-        <extensions>
-          <oa:locType>routingNode</oa:locType>
-        </extensions>
       </trkpt>
       <trkpt lat="45.447052" lon="10.997304">
         <ele>63.8</ele>
@@ -1169,10 +1123,6 @@
       <trkpt lat="45.448068" lon="11.00052">
         <ele>59.0</ele>
         <name>Via Rigaste Redentore 10, 37129 Verona Veneto</name>
-        <extensions>
-          <oa:locType>routingNode</oa:locType>
-          <oa:address>[street:Via Rigaste Redentore, country:Italy, zipcode:37129, town:Verona, housenumber:10, subAdministrativeArea:Province of Verona, administrativeArea:Veneto]</oa:address>
-        </extensions>
       </trkpt>
       <trkpt lat="45.448063" lon="11.000543">
         <ele>59.3</ele>
@@ -1276,10 +1226,6 @@
       <trkpt lat="45.447908" lon="11.002746">
         <ele>105.2</ele>
         <name>Piazzale Castel San Pietro 1–4, 37129 Verona Veneto</name>
-        <extensions>
-          <oa:locType>routingNode</oa:locType>
-          <oa:address>[street:Piazzale Castel San Pietro, country:Italy, zipcode:37129, town:Verona, administrativeArea:Veneto, subAdministrativeArea:Province of Verona, housenumber:1–4]</oa:address>
-        </extensions>
       </trkpt>
       <trkpt lat="45.447861" lon="11.002794">
         <ele>104.5</ele>
@@ -1662,9 +1608,6 @@
       <trkpt lat="45.432436" lon="11.003183">
         <ele>56.8</ele>
         <name>Via Campo Marzo 5, 37133 Verona Veneto</name>
-        <extensions>
-          <oa:address>[street:Via Campo Marzo, country:Italy, zipcode:37133, town:Verona, housenumber:5, subAdministrativeArea:Province of Verona, administrativeArea:Veneto]</oa:address>
-        </extensions>
       </trkpt>
     </trkseg>
   </trk>

@@ -8,9 +8,6 @@
       <trkpt lat="47.273438" lon="11.253838">
         <ele>631.1</ele>
         <name>Geistbühelweg 19, 6170 Zirl</name>
-        <extensions>
-          <oa:address>[street:Geistbühelweg, country:Österreich, town:Zirl, zipcode:6170, housenumber:19, administrativeArea:Tirol, subAdministrativeArea:Innsbruck-Land]</oa:address>
-        </extensions>
       </trkpt>
       <trkpt lat="47.273416" lon="11.253813">
         <ele>631.3</ele>
@@ -96,10 +93,6 @@
       <trkpt lat="47.274613" lon="11.251135">
         <ele>646.3</ele>
         <name>Geistbühelweg 21, 6170 Zirl</name>
-        <extensions>
-          <oa:locType>routingNode</oa:locType>
-          <oa:address>[street:Geistbühelweg, country:Österreich, town:Zirl, zipcode:6170, administrativeArea:Tirol, subAdministrativeArea:Innsbruck-Land, housenumber:21]</oa:address>
-        </extensions>
       </trkpt>
       <trkpt lat="47.274663" lon="11.251129">
         <ele>649.3</ele>
@@ -335,10 +328,6 @@
       <trkpt lat="47.278669" lon="11.257213">
         <ele>784.1</ele>
         <name>6170 Zirl, Österreich</name>
-        <extensions>
-          <oa:locType>routingNode</oa:locType>
-          <oa:address>[administrativeArea:Tirol, town:Zirl, country:Österreich, subAdministrativeArea:Innsbruck-Land, zipcode:6170]</oa:address>
-        </extensions>
       </trkpt>
       <trkpt lat="47.27865" lon="11.257238">
         <ele>781.2</ele>
@@ -409,10 +398,6 @@
       <trkpt lat="47.276234" lon="11.255657">
         <ele>838.6</ele>
         <name>6170 Zirl, Österreich</name>
-        <extensions>
-          <oa:locType>routingNode</oa:locType>
-          <oa:address>[administrativeArea:Tirol, country:Österreich, town:Zirl, subAdministrativeArea:Innsbruck-Land, zipcode:6170]</oa:address>
-        </extensions>
       </trkpt>
       <trkpt lat="47.276185" lon="11.255691">
         <ele>838.2</ele>
@@ -546,10 +531,6 @@
       <trkpt lat="47.271931" lon="11.262458">
         <ele>745.0</ele>
         <name>6170 Zirl, Österreich</name>
-        <extensions>
-          <oa:locType>routingNode</oa:locType>
-          <oa:address>[administrativeArea:Tirol, country:Österreich, town:Zirl, subAdministrativeArea:Innsbruck-Land, zipcode:6170]</oa:address>
-        </extensions>
       </trkpt>
       <trkpt lat="47.271927" lon="11.262462">
         <ele>745.0</ele>
@@ -746,10 +727,6 @@
       <trkpt lat="47.269361" lon="11.26924">
         <ele>780.7</ele>
         <name>6170 Zirl, Österreich</name>
-        <extensions>
-          <oa:locType>routingNode</oa:locType>
-          <oa:address>[administrativeArea:Tirol, country:Österreich, town:Zirl, subAdministrativeArea:Innsbruck-Land, zipcode:6170]</oa:address>
-        </extensions>
       </trkpt>
       <trkpt lat="47.269375" lon="11.269197">
         <ele>783.4</ele>
@@ -1096,9 +1073,6 @@
       <trkpt lat="47.273409" lon="11.253826">
         <ele>631.2</ele>
         <name>Geistbühelweg 19, 6170 Zirl</name>
-        <extensions>
-          <oa:address>[street:Geistbühelweg, country:Österreich, town:Zirl, administrativeArea:Tirol, housenumber:19, subAdministrativeArea:Innsbruck-Land, zipcode:6170]</oa:address>
-        </extensions>
       </trkpt>
     </trkseg>
   </trk>

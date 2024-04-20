@@ -8,9 +8,6 @@
       <trkpt lat="45.856586" lon="10.830379">
         <ele>387.05907</ele>
         <name>Località Pregasina 124, 38066 Riva del Garda Trentino-Südtirol</name>
-        <extensions>
-          <oa:address>[housenumber:124, administrativeArea:Trentino-Südtirol, subAdministrativeArea:Trentino, zipcode:38066, town:Riva del Garda, street:Località Pregasina, country:Italien]</oa:address>
-        </extensions>
       </trkpt>
       <trkpt lat="45.856579" lon="10.830338">
         <ele>388.49483</ele>
@@ -18,9 +15,6 @@
       <trkpt lat="45.856579" lon="10.830338">
         <ele>388.49483</ele>
         <name>Località Pregasina 124, 38066 Riva del Garda Trentino-Südtirol</name>
-        <extensions>
-          <oa:address>[town:Riva del Garda, housenumber:124, subAdministrativeArea:Trentino, zipcode:38066, administrativeArea:Trentino-Südtirol, street:Località Pregasina, country:Italien]</oa:address>
-        </extensions>
       </trkpt>
       <trkpt lat="45.856585" lon="10.830203">
         <ele>392.22817</ele>
@@ -1555,9 +1549,6 @@
       <trkpt lat="45.856179" lon="10.829848">
         <ele>406.51983</ele>
         <name>45.856179,10.829848</name>
-        <extensions>
-          <oa:mapZoom>16</oa:mapZoom>
-        </extensions>
       </trkpt>
     </trkseg>
   </trk>

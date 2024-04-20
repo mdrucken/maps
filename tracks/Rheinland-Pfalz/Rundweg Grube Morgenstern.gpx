@@ -7,9 +7,6 @@
     <trkseg>
       <trkpt lat="49.823177" lon="6.755181">
         <ele>131.31605</ele>
-        <extensions>
-          <oa:address>[country:Deutschland, housenumber:9b, street:Zellenpfützstraße, town:Schweich, zipcode:54338, county:Landkreis Trier-Saarburg, state:Rheinland-Pfalz]</oa:address>
-        </extensions>
       </trkpt>
       <trkpt lat="49.823158" lon="6.755686">
         <ele>132.6613</ele>
@@ -82,9 +79,6 @@
       </trkpt>
       <trkpt lat="49.827033" lon="6.756776">
         <ele>138.66968</ele>
-        <extensions>
-          <oa:locType>routingNode</oa:locType>
-        </extensions>
       </trkpt>
       <trkpt lat="49.827014" lon="6.756854">
         <ele>138.87968</ele>
@@ -169,9 +163,6 @@
       </trkpt>
       <trkpt lat="49.827695" lon="6.763225">
         <ele>154.8388</ele>
-        <extensions>
-          <oa:locType>routingNode</oa:locType>
-        </extensions>
       </trkpt>
       <trkpt lat="49.827787" lon="6.763216">
         <ele>155.76078</ele>
@@ -326,10 +317,6 @@
       <trkpt lat="49.821792" lon="6.767313">
         <ele>197.31771</ele>
         <name>Obersaeser Tal</name>
-        <extensions>
-          <oa:locType>routingNode</oa:locType>
-          <oa:address>[country:Deutschland, street:Corneliuspforte, town:Schweich, zipcode:54338, county:Landkreis Trier-Saarburg, state:Rheinland-Pfalz, title:Obersaeser Tal]</oa:address>
-        </extensions>
       </trkpt>
       <trkpt lat="49.821789" lon="6.767495">
         <ele>198.1448</ele>
@@ -537,9 +524,6 @@
       </trkpt>
       <trkpt lat="49.827088" lon="6.781893">
         <ele>292.42058</ele>
-        <extensions>
-          <oa:locType>routingNode</oa:locType>
-        </extensions>
       </trkpt>
       <trkpt lat="49.827133" lon="6.781964">
         <ele>293.02708</ele>
@@ -603,9 +587,6 @@
       </trkpt>
       <trkpt lat="49.830474" lon="6.786487">
         <ele>350.06452</ele>
-        <extensions>
-          <oa:locType>routingNode</oa:locType>
-        </extensions>
       </trkpt>
       <trkpt lat="49.830374" lon="6.786654">
         <ele>352.62271</ele>
@@ -711,9 +692,6 @@
       </trkpt>
       <trkpt lat="49.822475" lon="6.787669">
         <ele>404.6057</ele>
-        <extensions>
-          <oa:locType>routingNode</oa:locType>
-        </extensions>
       </trkpt>
       <trkpt lat="49.822424" lon="6.787933">
         <ele>403.75134</ele>
@@ -751,10 +729,6 @@
       <trkpt lat="49.821035" lon="6.788848">
         <ele>398.94977</ele>
         <name>Landwehrkreuz</name>
-        <extensions>
-          <oa:locType>routingNode</oa:locType>
-          <oa:address>[country:Deutschland, street:Bergstraße, town:Longen, zipcode:54338, county:Landkreis Trier-Saarburg, state:Rheinland-Pfalz, title:Landwehrkreuz]</oa:address>
-        </extensions>
       </trkpt>
       <trkpt lat="49.82099" lon="6.788796">
         <ele>398.76501</ele>
@@ -840,10 +814,6 @@
       <trkpt lat="49.816165" lon="6.788422">
         <ele>416.50246</ele>
         <name>Mehringer Berg</name>
-        <extensions>
-          <oa:locType>routingNode</oa:locType>
-          <oa:address>[country:Deutschland, street:Bergstraße, town:Longen, zipcode:54338, county:Landkreis Trier-Saarburg, state:Rheinland-Pfalz, title:Mehringer Berg]</oa:address>
-        </extensions>
       </trkpt>
       <trkpt lat="49.816083" lon="6.788355">
         <ele>416.18872</ele>
@@ -919,9 +889,6 @@
       </trkpt>
       <trkpt lat="49.81376" lon="6.784785">
         <ele>383.94686</ele>
-        <extensions>
-          <oa:locType>routingNode</oa:locType>
-        </extensions>
       </trkpt>
       <trkpt lat="49.813774" lon="6.784747">
         <ele>383.58679</ele>
@@ -982,9 +949,6 @@
       </trkpt>
       <trkpt lat="49.814179" lon="6.781735">
         <ele>354.92275</ele>
-        <extensions>
-          <oa:locType>routingNode</oa:locType>
-        </extensions>
       </trkpt>
       <trkpt lat="49.814169" lon="6.781625">
         <ele>352.27966</ele>
@@ -1075,9 +1039,6 @@
       </trkpt>
       <trkpt lat="49.813191" lon="6.779308">
         <ele>306.61273</ele>
-        <extensions>
-          <oa:locType>routingNode</oa:locType>
-        </extensions>
       </trkpt>
       <trkpt lat="49.813292" lon="6.779336">
         <ele>309.74617</ele>
@@ -1316,10 +1277,6 @@
       <trkpt lat="49.818452" lon="6.770731">
         <ele>278.98392</ele>
         <name>Grillhütte Ruperoth</name>
-        <extensions>
-          <oa:locType>routingNode</oa:locType>
-          <oa:address>[country:Deutschland, street:B 53, town:Longuich, zipcode:54338, county:Landkreis Trier-Saarburg, state:Rheinland-Pfalz, title:Grillhütte Ruperoth]</oa:address>
-        </extensions>
       </trkpt>
       <trkpt lat="49.818434" lon="6.770685">
         <ele>279.14827</ele>
@@ -1383,9 +1340,6 @@
       </trkpt>
       <trkpt lat="49.817865" lon="6.765132">
         <ele>262.0401</ele>
-        <extensions>
-          <oa:locType>routingNode</oa:locType>
-        </extensions>
       </trkpt>
       <trkpt lat="49.817885" lon="6.765084">
         <ele>262.06592</ele>
@@ -1500,9 +1454,6 @@
       </trkpt>
       <trkpt lat="49.824004" lon="6.763809">
         <ele>186.41613</ele>
-        <extensions>
-          <oa:locType>routingNode</oa:locType>
-        </extensions>
       </trkpt>
       <trkpt lat="49.824065" lon="6.7638">
         <ele>186.08397</ele>
@@ -1647,10 +1598,6 @@
       </trkpt>
       <trkpt lat="49.824758" lon="6.75602">
         <ele>137.74776</ele>
-        <extensions>
-          <oa:locType>routingNode</oa:locType>
-          <oa:address>[country:Deutschland, housenumber:45, street:Corneliuspforte, town:Schweich, zipcode:54338, county:Landkreis Trier-Saarburg, state:Rheinland-Pfalz]</oa:address>
-        </extensions>
       </trkpt>
       <trkpt lat="49.824743" lon="6.755935">
         <ele>137.53955</ele>
@@ -1681,9 +1628,6 @@
       </trkpt>
       <trkpt lat="49.823179" lon="6.755118">
         <ele>131.19996</ele>
-        <extensions>
-          <oa:address>[country:Deutschland, housenumber:9a, street:Zellenpfützstraße, town:Schweich, zipcode:54338, county:Landkreis Trier-Saarburg, state:Rheinland-Pfalz]</oa:address>
-        </extensions>
       </trkpt>
     </trkseg>
   </trk>

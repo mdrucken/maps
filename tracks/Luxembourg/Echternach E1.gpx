@@ -571,9 +571,6 @@
       </trkpt>
       <trkpt lat="49.818452" lon="6.372035">
         <ele>305.75824</ele>
-        <extensions>
-          <oa:locType>calcWayPoint</oa:locType>
-        </extensions>
       </trkpt>
       <trkpt lat="49.818569" lon="6.372669">
         <ele>312.9884</ele>
@@ -649,9 +646,6 @@
       </trkpt>
       <trkpt lat="49.825518" lon="6.372225">
         <ele>311.63065</ele>
-        <extensions>
-          <oa:locType>calcWayPoint</oa:locType>
-        </extensions>
       </trkpt>
       <trkpt lat="49.825728" lon="6.372076">
         <ele>312.96782</ele>
@@ -709,9 +703,6 @@
       </trkpt>
       <trkpt lat="49.819672" lon="6.37606">
         <ele>321.1001</ele>
-        <extensions>
-          <oa:locType>calcWayPoint</oa:locType>
-        </extensions>
       </trkpt>
       <trkpt lat="49.819402" lon="6.376337">
         <ele>320.41102</ele>
@@ -724,9 +715,6 @@
       </trkpt>
       <trkpt lat="49.818995" lon="6.380128">
         <ele>313.98698</ele>
-        <extensions>
-          <oa:locType>calcWayPoint</oa:locType>
-        </extensions>
       </trkpt>
       <trkpt lat="49.819017" lon="6.380281">
         <ele>313.5695</ele>
@@ -796,9 +784,6 @@
       </trkpt>
       <trkpt lat="49.822066" lon="6.389109">
         <ele>280.96802</ele>
-        <extensions>
-          <oa:locType>calcWayPoint</oa:locType>
-        </extensions>
       </trkpt>
       <trkpt lat="49.822358" lon="6.389169">
         <ele>273.62909</ele>
@@ -844,9 +829,6 @@
       </trkpt>
       <trkpt lat="49.820091" lon="6.390761">
         <ele>220.45583</ele>
-        <extensions>
-          <oa:locType>calcWayPoint</oa:locType>
-        </extensions>
       </trkpt>
       <trkpt lat="49.819766" lon="6.390922">
         <ele>210.2395</ele>
@@ -862,9 +844,6 @@
       </trkpt>
       <trkpt lat="49.818423" lon="6.389134">
         <ele>217.04386</ele>
-        <extensions>
-          <oa:locType>calcWayPoint</oa:locType>
-        </extensions>
       </trkpt>
       <trkpt lat="49.818301" lon="6.388891">
         <ele>218.94252</ele>
@@ -925,9 +904,6 @@
       </trkpt>
       <trkpt lat="49.819767" lon="6.395883">
         <ele>194.91961</ele>
-        <extensions>
-          <oa:locType>calcWayPoint</oa:locType>
-        </extensions>
       </trkpt>
       <trkpt lat="49.819681" lon="6.396123">
         <ele>194.23778</ele>
@@ -1024,9 +1000,6 @@
       </trkpt>
       <trkpt lat="49.815998" lon="6.414286">
         <ele>172.37558</ele>
-        <extensions>
-          <oa:locType>calcWayPoint</oa:locType>
-        </extensions>
       </trkpt>
       <trkpt lat="49.816191" lon="6.415405">
         <ele>161.20342</ele>
@@ -1051,9 +1024,6 @@
       </trkpt>
       <trkpt lat="49.812508" lon="6.420001">
         <ele>162.712</ele>
-        <extensions>
-          <oa:locType>calcWayPoint</oa:locType>
-        </extensions>
       </trkpt>
       <trkpt lat="49.813142" lon="6.420929">
         <ele>164.10954</ele>
@@ -1064,9 +1034,6 @@
       <trkpt lat="49.813585" lon="6.421187">
         <ele>162.6474</ele>
         <name>Départ/Start</name>
-        <extensions>
-          <oa:locType>nearWayPoint</oa:locType>
-        </extensions>
       </trkpt>
     </trkseg>
   </trk>
