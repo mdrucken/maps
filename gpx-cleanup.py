@@ -28,6 +28,8 @@ for dirname in os.listdir("tracks"):
                 for segment in t.segments:
                     for point in segment.points:
                         point.extensions = []
+                        point.description = None
+                        point.comment = None
             fh = open(f, 'w')
             fh.write(gpx.to_xml())
             fh.close()
