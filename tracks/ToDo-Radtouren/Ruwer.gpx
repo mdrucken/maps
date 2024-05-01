@@ -2,8 +2,7 @@
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
   <metadata>
     <name>Ruwer</name>
-    <bounds minlat="49.605023972690105" maxlat="49.78291695937514" minlon="6.695801038295031" maxlon="6.933666961267591">
-    </bounds>
+    <bounds minlat="49.605023972690105" maxlat="49.78291695937514" minlon="6.695801038295031" maxlon="6.933666961267591" />
   </metadata>
   <trk>
     <extensions>
