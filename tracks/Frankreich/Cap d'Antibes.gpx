@@ -1,20 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gpx version="1.1" creator="outdooractive - http://www.outdooractive.com" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1">
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
   <metadata>
-    <name>tour du Cap d&apos;Antibes 20 mai 2018</name>
-    <author>
-      <name>Guy et Françoise V - Community</name>
-    </author>
-    <link href="https://www.outdooractive.com/r/146221318"/>
-    <time>2022-10-26T13:45:07.577Z</time>
-    <extensions>
-      <oa:oaCategory>hikingTourTrail</oa:oaCategory>
-    </extensions>
+    <name>Cap d'Antibes</name>
   </metadata>
   <trk>
-    <name>tour du Cap d&apos;Antibes 20 mai 2018</name>
-    <desc>départ de la plage de la Salis,en suivant les rues ,jardin Thuret,Villa Eilen Roc,puis tour du cap par le sentiers des douaniers,plage Keller, passage au pied du phare de la garoupe et retour.</desc>
-    <type>hikingTourTrail</type>
     <trkseg>
       <trkpt lat="43.568357" lon="7.129897">
         <ele>3.10636</ele>
@@ -36,9 +25,6 @@
       </trkpt>
       <trkpt lat="43.565405" lon="7.124603">
         <ele>26.35205</ele>
-        <extensions>
-          <oa:locType>calcWayPoint</oa:locType>
-        </extensions>
       </trkpt>
       <trkpt lat="43.565078" lon="7.124699">
         <ele>25.71296</ele>
@@ -210,9 +196,6 @@
       </trkpt>
       <trkpt lat="43.544553" lon="7.131099">
         <ele>2.08764</ele>
-        <extensions>
-          <oa:locType>calcWayPoint</oa:locType>
-        </extensions>
       </trkpt>
       <trkpt lat="43.544615" lon="7.131249">
         <ele>1.96046</ele>
@@ -282,9 +265,6 @@
       </trkpt>
       <trkpt lat="43.544973" lon="7.135981">
         <ele>2.26514</ele>
-        <extensions>
-          <oa:locType>calcWayPoint</oa:locType>
-        </extensions>
       </trkpt>
       <trkpt lat="43.545086" lon="7.136034">
         <ele>2.54536</ele>
@@ -444,9 +424,6 @@
       </trkpt>
       <trkpt lat="43.551435" lon="7.141919">
         <ele>7.976</ele>
-        <extensions>
-          <oa:locType>calcWayPoint</oa:locType>
-        </extensions>
       </trkpt>
       <trkpt lat="43.551486" lon="7.141989">
         <ele>9.89361</ele>
@@ -498,9 +475,6 @@
       </trkpt>
       <trkpt lat="43.552221" lon="7.144242">
         <ele>5.92584</ele>
-        <extensions>
-          <oa:locType>calcWayPoint</oa:locType>
-        </extensions>
       </trkpt>
       <trkpt lat="43.552454" lon="7.144258">
         <ele>4.40297</ele>
@@ -534,9 +508,6 @@
       </trkpt>
       <trkpt lat="43.554635" lon="7.142209">
         <ele>2.5553</ele>
-        <extensions>
-          <oa:locType>calcWayPoint</oa:locType>
-        </extensions>
       </trkpt>
       <trkpt lat="43.554631" lon="7.141957">
         <ele>2.64877</ele>
@@ -648,9 +619,6 @@
       </trkpt>
       <trkpt lat="43.555673" lon="7.131287">
         <ele>27.66355</ele>
-        <extensions>
-          <oa:locType>calcWayPoint</oa:locType>
-        </extensions>
       </trkpt>
       <trkpt lat="43.555681" lon="7.131169">
         <ele>27.85908</ele>
@@ -723,9 +691,6 @@
       </trkpt>
       <trkpt lat="43.563902" lon="7.127709">
         <ele>28.06964</ele>
-        <extensions>
-          <oa:locType>calcWayPoint</oa:locType>
-        </extensions>
       </trkpt>
       <trkpt lat="43.564105" lon="7.127687">
         <ele>25.96698</ele>

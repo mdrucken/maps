@@ -1,20 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gpx version="1.1" creator="outdooractive - http://www.outdooractive.com" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1">
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
   <metadata>
-    <name>saint jean  cap Ferrat Enregistré le 14 juin 2021 10:35:42</name>
-    <author>
-      <name>christian guerin - Community</name>
-    </author>
-    <link href="https://www.outdooractive.com/r/213237800"/>
-    <time>2023-01-10T13:27:27.591Z</time>
-    <extensions>
-      <oa:oaCategory>hikingTourTrail</oa:oaCategory>
-    </extensions>
+    <name>Cap Ferrat</name>
   </metadata>
   <trk>
-    <name>saint jean  cap Ferrat Enregistré le 14 juin 2021 10:35:42</name>
-    <desc>très belle vue</desc>
-    <type>hikingTourTrail</type>
     <trkseg>
       <trkpt lat="43.687272" lon="7.33605">
         <ele>65.9</ele>
