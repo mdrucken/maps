@@ -7,6 +7,10 @@ import gpxpy.gpx
 def write_header(f):
     f.write("""
 
+const markerOpacityLow = 0.8;            
+const markerOpacityHigh = 1.0;
+const markerOptions = {opacity: markerOpacityLow};
+
 function onZoomEnd(e) {
     level = e.target.getZoom();
     var opacity;
@@ -16,6 +20,18 @@ function onZoomEnd(e) {
         opacity = 0.0;
     for (let i = 0; i < markers.length; i++) {
         markers[i].setOpacity(opacity);
+    }
+}
+            
+function onMarkerClick(e) {
+    icon = e.target;
+    if(icon.options.opacity == markerOpacityLow)
+    {
+        icon.setOpacity(markerOpacityHigh);
+    }
+    else
+    {
+        icon.setOpacity(markerOpacityLow);
     }
 }
 
@@ -49,8 +65,10 @@ def write_track(fh, track, color, filename, fullname):
     fh.write(F"""
 track = L.polyline(latlngs, {{color: '{color}', interactive: 'true'}}).addTo(map);
 tracks.push(track);
-marker = L.marker([{start[0]}, {start[1]}]).addTo(map);
-marker.bindPopup(\"{popup}\");
+marker = L.marker([{start[0]}, {start[1]}], markerOptions)
+    .addTo(map)
+    .bindPopup(\"{popup}\")
+    .on('click', onMarkerClick);
 markers.push(marker);
 """)
 
